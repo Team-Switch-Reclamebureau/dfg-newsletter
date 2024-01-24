@@ -60,14 +60,15 @@
 				<mj-text>
 					Dear colleague,<br />
 					<br />
-					While you are reading this newsletter with all the updates
-					about CSR projects within our DFG companies, we are already
-					working on the future of our sustainability strategy.
-					Together with the CSR Ambassadors of the DFG companies, we
-					are brainstorming about IMPACT2030. You will read more about
-					it in the next newsletters, but if you have any feedback or
-					suggestions for us on the future of our sustainability
-					strategy, please don't hestitate to get in contact with me.
+					We're excited to share our first Sustainability newsletter
+					of 2024. This edition features Green initiatives from you,
+					our DFG companies. We have a Green example from e-Flora, our
+					farms Nini/Herburg show us some of their projects, and Olga
+					Keijser tells us about her role as Sustainability manager at
+					both Coloriginz & OZ-Hami.<br />
+					<br />
+					Do you also want to be in the spotlight with your own Green
+					example in our next newsletter? Please send me an email!
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -100,31 +101,6 @@
 		<mj-section padding-top="0" padding-bottom="0">
 			<mj-column width="100%" css-class="purple">
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/dma-visual.png"
-					href="https://files.teamswitch.dev/newsletter/dfg/src/explanation-dma.pdf"
-					alt=""
-				/>
-				<mj-text mj-class="text-white">
-					<strong>DOUBLE MATERIALITY ANALYSIS</strong><br />
-					<br />
-					As part of our CSRD progress we need to make an official
-					Double Materiality Analysis, which shows which
-					sustainability topics are important (material) for DFG and
-					our companies. Based on these material topics we need to
-					report on specific parameters. Read more about this and what
-					this means for your company in the attached presentation.
-				</mj-text>
-				<mj-image
-					width="291px"
-					align="left"
-					src="https://files.teamswitch.dev/newsletter/dfg/src/button-blue-pdf-explanation-dma.png"
-					href="https://files.teamswitch.dev/newsletter/dfg/src/explanation-dma.pdf"
-					alt=""
-				/>
-				<mj-text>
-					<br />
-				</mj-text>
-				<mj-image
 					src="https://files.teamswitch.dev/newsletter/dfg/src/title-blue.png"
 					alt="DFG Fairtrade result 2022"
 					width="520px"
@@ -132,18 +108,51 @@
 					align="left"
 				/>
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/dff-collage-2.png"
-					href="https://files.teamswitch.dev/newsletter/dfg/src/DFG-Fairtrade-Infographics-2023.pdf"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/sustainability-outlook-2024.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/sustainability-outlook-2024.pdf"
 					alt=""
 				/>
 				<mj-text mj-class="text-white">
-					<strong>TROWBACK DFG SUSTAINABILITY WEEK 2023</strong><br />
+					<strong>SUSTAINABILITY REVIEW 2023 & OUTLOOK 2024</strong
+					><br />
 					<br />
-					In the week of 18-22 September the second DFG wide
-					Sustainability Week took place. Once again the majority of
-					our companies gave special attention to our CSR strategy
-					IMPACT25 towards our colleagues.
+					Some highlights from our main projects in 2023, and a quick
+					outlook on the key areas for 2024. A detailed presentation
+					has been given to the Sustainability Ambassadors on the 16th
+					of January.
 				</mj-text>
+				<mj-image
+					width="394px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-blue-read-the-outlook-on-2024.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/sustainability-outlook-2024.pdf"
+					alt=""
+				/>
+				<mj-text>
+					<br />
+				</mj-text>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/olga-keijser.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/interview-olga-keijser.jpg"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					<strong>SUSTAINABILITY AMBASSADOR IN THE SPOTLIGHT</strong
+					><br />
+					<br />
+					Meet Olga Keijser, sustainability manager at Coloríginz and
+					OZ-Hami. She ensures that purchases made by DFG’s various
+					wholesale companies comply with the FSI certification
+					requirements, and enables both sustainability and
+					transparency.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-blue-read-all-about-olga.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/interview-olga-keijser.jpg"
+					alt=""
+				/>
 			</mj-column>
 		</mj-section>
 		<mj-section padding="0 20px 0 20px">
