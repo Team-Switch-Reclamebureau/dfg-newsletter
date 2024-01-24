@@ -1,0 +1,541 @@
+<mjml>
+	<mj-head>
+		<mj-font
+			name="Urbana"
+			href="https://use.typekit.net/tnf8jkx.css"
+		></mj-font>
+		<mj-breakpoint width="500px" />
+		<mj-attributes>
+			<mj-section padding="20px" background-color="white" />
+			<mj-column padding="40px 20px 20px" />
+			<mj-text padding="0 0 20px" />
+			<mj-image padding="0 0 20px" />
+
+			<mj-all font-family="Arial" />
+			<mj-all font-size="14px" />
+			<mj-all line-height="1.4" />
+			<mj-all color="#5A5A5A" />
+
+			<mj-class name="text-white" color="white" />
+			<mj-class
+				name="title"
+				font-weight="300"
+				font-size="36px"
+				font-family="Urbana, Arial, sans-serif"
+			/>
+			<mj-class name="card" padding="0" />
+			<mj-class name="item" padding-top="0" padding-bottom="0" />
+			<mj-class name="full" padding="0" />
+		</mj-attributes>
+		<mj-style inline="inline">
+			.gradient-purple > table { background-color: #64328A !important;
+			background: linear-gradient(to right, #64328A 0%, #33ACE3 100%)
+			!important; } .gradient-red > table { background-color: #AD1E22
+			!important; background: linear-gradient(to right, #AD1E22 0%,
+			#E91C23 100%) !important; } .gradient-yellow > table {
+			background-color: #00983A !important; background: linear-gradient(to
+			right, #00983A 0%, #FBCD02 100%) !important; } .gradient-green >
+			table { background-color: #2E543B !important; background:
+			linear-gradient(to right, #2E543B 0%, #588252 100%) !important; }
+			.purple > table { background-color: #005DA4 !important;} .red >
+			table { background-color: #AD1E22 !important; %) } .yellow > table {
+			background-color: #00983A !important; } .green > table {
+			background-color: #2E543B !important; }
+		</mj-style>
+	</mj-head>
+	<mj-body background-color="#EEEEEE">
+		<mj-section background-color="#EEEEEE"> </mj-section>
+
+		<mj-section padding="0">
+			<mj-column width="600px" padding="0">
+				<mj-image
+					width="600px"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding-bottom="0">
+			<mj-column width="560px">
+				<mj-text>
+					Dear colleague,<br />
+					<br />
+					Herewith you receive the first renewed IMPACT25 newsletter.
+					We have been on a sustainability journey togehter as Dutch
+					Flower Group companies for over a decade and many colleagues
+					are working on different projects. With this newsletter we
+					want to inform and update you as a stakeholder about
+					sustainability projects within our companies and inspire
+					you. Feel free to forward the newsletter to other collegues
+					within your company. If you have any input for this
+					newsletter, please let me know.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column vertical-align="middle" width="280px" padding-bottom="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/intro.png"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="280px" padding-bottom="0">
+				<mj-text>
+					Colourful regards,<br />
+					<br />
+					<strong>Raimon Loman</strong><br />
+					CSR Manager Dutch Flower Group
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="20px 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-purple.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="purple">
+				<!-- <mj-text mj-class="title text-white">
+					FOR A TRANSPARENT FLORAL CHAIN
+				</mj-text> -->
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/title-blue.png"
+					href="https://www.fsi2025.com"
+					alt=""
+					width="520px"
+					height="40px"
+					align="left"
+				/>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/fsi.png"
+					href="https://www.fsi2025.com"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					<strong>72% SUSTAINABLE SOURCING FOR DFG</strong><br />
+					<br />
+					Buying certified product, according to the FSI Basket of
+					Standards, is the basis for our sustainable sourcing and is
+					measured monthly via the FSI Sustainable Sourcing Scan. Our
+					group result for 2022 is increased to 72%. During the
+					upcoming quaterly director meetings the companies will get
+					more detailed insights.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-more-information.png"
+					href="https://www.fsi2025.com"
+					alt=""
+				/>
+				<mj-text>
+					<br />
+				</mj-text>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/image-01.png"
+					href="https://dfgretail.sharepoint.com/:b:/s/dfg-csr/EdKIM3huhZZAuy7H8yrgJYsBimzQM20PVvz_4A2gaAz7vg?e=npnAG0"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					<strong>IT’S GREAT TO BE A GREEN HERO @ HAMIPLANT!</strong
+					><br />
+					<br />
+					Our Green Heroes program is created to embed sustainability
+					within the entire organisation, and not just with the CSR
+					Managers. Hamiplant introduced the first Green Heroes. Do
+					you want to know how they launched the Green Heroes and
+					which added value the Green Heroes have to Hamiplant?
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-view-interview.png"
+					href="https://dfgretail.sharepoint.com/:b:/s/dfg-csr/EdKIM3huhZZAuy7H8yrgJYsBimzQM20PVvz_4A2gaAz7vg?e=npnAG0"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/bottom-purple.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="20px 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-red.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="red">
+				<!-- <mj-text mj-class="title text-white">
+					FOR THE PEOPLE IN OUR CHAIN
+				</mj-text> -->
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/title-red.png"
+					href="https://www.fsi2025.com"
+					alt=""
+					width="520px"
+					height="40px"
+					align="left"
+				/>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/image-trees.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/1677230698810138.mp4"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					<strong
+						>DFG COLLEAGUES PLANT 65 TREES WITH HONEY
+						HIGHWAY</strong
+					><br />
+					<br />
+					With the help from many DFG colleagues, and under the
+					guidance of Deborah Post from Honey Highway, 65 apple and
+					pear trees have been planted near our DFG companies in
+					Aalsmeer. These trees play a role in improving biodiversity
+					and provide food and shelter for insects and birds.<br />
+					<br />
+					Our colleague Kumar, from OZ Planten, made a short video of
+					the day.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-watch-video.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/1677230698810138.mp4"
+					alt=""
+				/>
+				<mj-text>
+					<br />
+				</mj-text>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/image03.png"
+					href="https://www.dutchflowerfoundation.com/"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					<strong
+						>DUTCH FLOWER FOUNDATION SUPPORTS ALBINO COMMUNITY IN
+						SENEGAL</strong
+					><br />
+					<br />
+					People with albinism in Senegal are facing grave and even
+					life threatening discrimination. Gerda Stokhof (DFG)
+					recently visited Bamba, head of the albino centre in
+					Senegal. On behalf of our Dutch Flower Foundation Gerda
+					handed over a cheque to Bamba in order to support his good
+					work for the albino community in Senegal. We hope this
+					message contributes to more awareness regarding the
+					situation of people with albinism.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-more-information-red.png"
+					href="https://www.dutchflowerfoundation.com/"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/bottom-red.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="20px 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-green.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="green">
+				<!-- <mj-text mj-class="title text-white"> FOR OUR PLANET </mj-text> -->
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/title-green.png"
+					href="https://www.fsi2025.com"
+					alt=""
+					width="267px"
+					height="40px"
+					align="left"
+				/>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/image04.png"
+					href="https://dfgretail.sharepoint.com/:w:/s/dfg-csr/EYmu6kfje1ZDr5XnUKPqqRIBxN-WWonN_RWJCtMfyj8jLQ?e=G4s0MF"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					<strong>TOGETHER WE STRIVE FOR ZERO WASTE IN 2025</strong
+					><br />
+					<br />
+					One of our targets is to have zero waste in 2025. As DFG
+					companies we are working together to achieve 100% recycled
+					or reused "waste", and formed a working group under the
+					guidance of Jose van der Klauw (CSR Manager Van Dijk Flora).
+					The group is working together wth Circulair Plastic Alliance
+					member Horizonteer on a projectplan to improve our waste
+					sepration, since this is the basis for better
+					recycling/reusing. The project started with Coloríginz and
+					The Floral Connection and you can read more about this in
+					the project plan.
+				</mj-text>
+				<mj-image
+					width="331px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-read-project-plan.png"
+					href="https://dfgretail.sharepoint.com/:w:/s/dfg-csr/EYmu6kfje1ZDr5XnUKPqqRIBxN-WWonN_RWJCtMfyj8jLQ?e=G4s0MF"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/bottom-green.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section> </mj-section>
+
+		<mj-section padding="0 0 0 0">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-upcoming.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card" padding-top="20px">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-30-mar.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text>
+					Meeting FSI Accelerators with non-compliant growers
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-mar-apr.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text>
+					Quarterly CSR meetings with the directors from the DFG
+					companies
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-13-apr.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text> CSR Ambassadors meeting on our CO2 projects </mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-18-22-sep.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text> DFG Sustainability Week </mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section> </mj-section>
+
+		<mj-section padding="0 0 0 0">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-next.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card" padding-top="20px">
+			<mj-column
+				width="60px"
+				vertical-align="middle"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-round.png"
+					alt=""
+					width="40px"
+					height="40px"
+				/>
+			</mj-column>
+			<mj-column width="480px" vertical-align="middle" mj-class="item">
+				<mj-text>Introduction The Rock Group</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				width="60px"
+				vertical-align="middle"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-round.png"
+					alt=""
+					width="40px"
+					height="40px"
+				/>
+			</mj-column>
+			<mj-column width="480px" vertical-align="middle" mj-class="item">
+				<mj-text
+					>Update on our CSRD project and our due diligence
+					project</mj-text
+				>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				width="60px"
+				vertical-align="middle"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-round.png"
+					alt=""
+					width="40px"
+					height="40px"
+				/>
+			</mj-column>
+			<mj-column width="480px" vertical-align="middle" mj-class="item">
+				<mj-text>Update on our CO2 2022 results</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section background-color="#ffffff"> </mj-section>
+
+		<mj-section
+			mj-class="full"
+			background-color="#00983A"
+			background-position="right"
+			background-size="600px"
+		>
+			<mj-column width="600px">
+				<mj-text
+					mj-class="text-white"
+					padding-left="20px"
+					padding-right="20px"
+				>
+					Read more about our sustainability strategy IMPACT25 in
+					<a
+						style="color: #ffffff"
+						href="https://dfg.nl/flipbook/impact25/"
+						>our flipbook</a
+					>.<br /><br />
+					Do you need text or images in high resolution? Please
+					contact
+					<a style="color: #ffffff" href="mailto:marketing@dfg.nl"
+						>marketing@dfg.nl</a
+					>
+					<br />
+					<br />
+					<strong
+						>Do you have any questions or feedback about this
+						newsletter, please contact
+						<a
+							style="color: #ffffff"
+							href="mailto:raimon.loman@dfg.nl"
+							>raimon.loman@dfg.nl</a
+						></strong
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="full">
+			<mj-column width="360px" vertical-align="middle">
+				<mj-text>
+					Unsubscribe
+					<a style="color: #009d26" href="[[custom:unsubsribe]]"
+						>here</a
+					>
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="middle">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/footer-logo.png"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section background-color="#EEEEEE"> </mj-section>
+	</mj-body>
+</mjml>
