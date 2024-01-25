@@ -48,7 +48,7 @@
 			<mj-column width="600px" padding="0">
 				<mj-image
 					width="600px"
-					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-oktober-2023.png"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-2024-jan.png"
 					alt=""
 					padding="0"
 				/>
@@ -131,6 +131,7 @@
 				<mj-text>
 					<br />
 				</mj-text>
+				<!-- TODO: Bijlage is niet scherp -->
 				<mj-image
 					src="https://files.teamswitch.dev/newsletter/dfg/src/olga-keijser.png"
 					href="https://files.teamswitch.dev/newsletter/dfg/src/interview-olga-keijser.jpg"
@@ -184,29 +185,31 @@
 					height="40px"
 					align="left"
 				/>
+				<!-- TODO: afbeelding niet scherp -->
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/dff-collage.png"
-					href="https://files.teamswitch.dev/newsletter/dfg/src/new-projects.pdf"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/nini-herburg.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/nini-herburg.pdf"
 					alt=""
 				/>
 				<mj-text mj-class="text-white">
-					<strong
-						>DUTCH FLOWER FOUNDATION IS LOOKING FOR NEW
-						PROJECTS</strong
-					><br />
+					<strong>SUSTAINABILITY AT NINI/HERBURG ROSES</strong><br />
 					<br />
-					Do you have a project in mind that could benefit from our
-					support? Are you involved in a care farm, planning a
-					marathon for a charitable cause, training for the
-					challenging climb of Alpe d'HuZes, or dedicating your free
-					time to assist at a local food bank? We are interested in
-					hearing from you!
+					Which sustainability efforts do our farms from Nini/Herburg
+					Roses do in Africa? Read more about in in our attached
+					files.
 				</mj-text>
 				<mj-image
 					width="291px"
 					align="left"
-					src="https://files.teamswitch.dev/newsletter/dfg/src/button-red-read-more.png"
-					href="https://files.teamswitch.dev/newsletter/dfg/src/new-projects.pdf"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-red-nini-sustainability.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/nini-herburg.pdf"
+					alt=""
+				/>
+				<mj-image
+					width="394px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-red-herburg-sustainability.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/herburg-roses.pdf"
 					alt=""
 				/>
 			</mj-column>
@@ -240,24 +243,25 @@
 					height="40px"
 					align="left"
 				/>
+				<!-- TODO: misschien geen opmerkingen in de pdf laten staan voor iedereen om te lezen? -->
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/circular-economy.png"
-					href="https://files.teamswitch.dev/newsletter/dfg/src/circular-economy.pdf"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/green-example.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/eflora-artikel-groene-wenskaart.pdf"
 					alt=""
 				/>
 				<mj-text mj-class="text-white">
-					<strong>CIRCULAR ECONOMY</strong><br />
+					<strong>GREEN EXAMPLE E-FLORA</strong><br />
 					<br />
-					Circular Economy. Something we hear a lot about if we talk
-					about Sustainability, but do not directly see within
-					IMPACT25. But it is embedded in our strategy, how? Learn
-					more about in the attached document.
+					In this section of our newsletter we want to emphazise one
+					of the "green examples" from our DFG companies. Kicking it
+					off is the "Eco friendly label" from our colleagues at
+					Bloompost.
 				</mj-text>
 				<mj-image
 					width="291px"
 					align="left"
-					src="https://files.teamswitch.dev/newsletter/dfg/src/button-green-learn-more.png"
-					href="https://files.teamswitch.dev/newsletter/dfg/src/circular-economy.pdf"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-green-read-green-example.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/eflora-artikel-groene-wenskaart.pdf"
 					alt=""
 				/>
 			</mj-column>
@@ -291,14 +295,14 @@
 				mj-class="item"
 			>
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/date-okt.png"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-2-feb.png"
 					alt=""
 					width="60px"
 					height="60px"
 				/>
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text>Discuss CSR business plans 2024</mj-text>
+				<mj-text>'Warm jumper' Day</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -309,14 +313,14 @@
 				mj-class="item"
 			>
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/date-7-8-9-nov.png"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-22-mar.png"
 					alt=""
 					width="60px"
 					height="60px"
 				/>
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text> RFH Trade Fair </mj-text>
+				<mj-text>World Water Day</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -327,14 +331,14 @@
 				mj-class="item"
 			>
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/date-29-nov.png"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-23-mar.png"
 					alt=""
 					width="60px"
 					height="60px"
 				/>
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text>DFG Networking Day</mj-text>
+				<mj-text>Earth Hour</mj-text>
 			</mj-column>
 		</mj-section>
 
@@ -364,7 +368,7 @@
 				/>
 			</mj-column>
 			<mj-column width="480px" vertical-align="middle" mj-class="item">
-				<mj-text>Update SSS</mj-text>
+				<mj-text>FSI-SSS 2023 results</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -382,7 +386,7 @@
 				/>
 			</mj-column>
 			<mj-column width="480px" vertical-align="middle" mj-class="item">
-				<mj-text>Human rights & Due Diligence explanation</mj-text>
+				<mj-text>Update Honey Highway</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -400,7 +404,7 @@
 				/>
 			</mj-column>
 			<mj-column width="480px" vertical-align="middle" mj-class="item">
-				<mj-text>Good Green examples from our companies</mj-text>
+				<mj-text>Green example</mj-text>
 			</mj-column>
 		</mj-section>
 
