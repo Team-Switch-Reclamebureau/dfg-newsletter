@@ -48,7 +48,7 @@
 			<mj-column width="600px" padding="0">
 				<mj-image
 					width="600px"
-					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-2024-jan.png"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-2024-feb.png"
 					alt=""
 					padding="0"
 				/>
@@ -84,7 +84,7 @@
 					Colourful regards,<br />
 					<br />
 					<strong>Raimon Loman</strong><br />
-					CSR Manager Dutch Flower Group
+					Group Sustainability Manager Dutch Flower Group
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -108,33 +108,32 @@
 					align="left"
 				/>
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/sustainability-outlook-2024.png"
-					href="https://files.teamswitch.dev/newsletter/dfg/src/sustainability-outlook-2024.pdf"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/sustainability-outlook-2024-1.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/sustainability-outlook-2024-1.pdf"
 					alt=""
 				/>
 				<mj-text mj-class="text-white">
 					<strong>SUSTAINABILITY REVIEW 2023 & OUTLOOK 2024</strong
 					><br />
 					<br />
-					Some highlights from our main projects in 2023, and a quick
-					outlook on the key areas for 2024. A detailed presentation
-					has been given to the Sustainability Ambassadors on the 16th
-					of January.
+					What were the highlights of our main projects in 2023? And
+					what are the key areas for 2024? A detailed presentation has
+					been given to the Sustainability Ambassadors on the 16th of
+					January.
 				</mj-text>
 				<mj-image
 					width="394px"
 					align="left"
 					src="https://files.teamswitch.dev/newsletter/dfg/src/button-blue-read-the-outlook-on-2024.png"
-					href="https://files.teamswitch.dev/newsletter/dfg/src/sustainability-outlook-2024.pdf"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/sustainability-outlook-2024-1.pdf"
 					alt=""
 				/>
 				<mj-text>
 					<br />
 				</mj-text>
-				<!-- TODO: Bijlage is niet scherp -->
 				<mj-image
 					src="https://files.teamswitch.dev/newsletter/dfg/src/olga-keijser.png"
-					href="https://files.teamswitch.dev/newsletter/dfg/src/interview-olga-keijser.jpg"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/interview-olga-keijser.pdf"
 					alt=""
 				/>
 				<mj-text mj-class="text-white">
@@ -151,7 +150,7 @@
 					width="291px"
 					align="left"
 					src="https://files.teamswitch.dev/newsletter/dfg/src/button-blue-read-all-about-olga.png"
-					href="https://files.teamswitch.dev/newsletter/dfg/src/interview-olga-keijser.jpg"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/interview-olga-keijser.pdf"
 					alt=""
 				/>
 			</mj-column>
@@ -185,9 +184,8 @@
 					height="40px"
 					align="left"
 				/>
-				<!-- TODO: afbeelding niet scherp -->
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/nini-herburg.png"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/nini-herburg-2.png"
 					href="https://files.teamswitch.dev/newsletter/dfg/src/nini-herburg.pdf"
 					alt=""
 				/>
@@ -195,8 +193,7 @@
 					<strong>SUSTAINABILITY AT NINI/HERBURG ROSES</strong><br />
 					<br />
 					Which sustainability efforts do our farms from Nini/Herburg
-					Roses do in Africa? Read more about in in our attached
-					files.
+					Roses do in Africa? Read more about it in the attached files
 				</mj-text>
 				<mj-image
 					width="291px"
@@ -312,6 +309,24 @@
 				mj-class="item"
 			>
 				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-11-16-mar.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text>Week van de circulaire economie</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
 					src="https://files.teamswitch.dev/newsletter/dfg/src/date-22-mar.png"
 					alt=""
 					width="60px"
@@ -403,7 +418,7 @@
 				/>
 			</mj-column>
 			<mj-column width="480px" vertical-align="middle" mj-class="item">
-				<mj-text>Green example</mj-text>
+				<mj-text>Green example SuperFlora</mj-text>
 			</mj-column>
 		</mj-section>
 
@@ -456,7 +471,7 @@
 			</mj-column>
 			<mj-column width="180px" vertical-align="middle">
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/footer-logo.png"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/footer-logo-2.png"
 					alt=""
 				/>
 			</mj-column>
