@@ -291,14 +291,14 @@
 				mj-class="item"
 			>
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/date-2-feb.png"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-22-feb.png"
 					alt=""
 					width="60px"
 					height="60px"
 				/>
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text>'Warm jumper' Day</mj-text>
+				<mj-text>Presentation FSI-SSS 2023 results & SBTi results to Sustainability Ambassadors</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -353,6 +353,24 @@
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
 				<mj-text>Earth Hour</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-26-mar.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text>Presentation Certifeye group approach to Sustainability Ambassadors</mj-text>
 			</mj-column>
 		</mj-section>
 
