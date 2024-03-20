@@ -61,11 +61,11 @@
 					Dear colleague,<br />
 					<br />
 					In this newsletter, you can read about Honey Highway, the
-					Horticulture Sustainable Packaging Initiative, and the 2023
-					FSI results. I want to congratulate The Floral Connection on
-					being the first DFG company with a score above 90%. Read
-					more about your company's score and our group score later in
-					this newsletter.
+					Horticulture Sustainable Packaging Initiative (HSPI), and
+					the 2023 FSI results. I want to congratulate The Floral
+					Connection on being the first DFG company with a FSI score
+					above 90%. Read more about your company's score and our DFG
+					group score in this newsletter.
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -105,7 +105,7 @@
 					align="left"
 				/>
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/fsi-results.png"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/fsi-results-1.png"
 					href="https://files.teamswitch.dev/newsletter/dfg/src/FSI-SSS-results-DFG-2023.pdf"
 					alt=""
 				/>
@@ -156,7 +156,7 @@
 					align="left"
 				/>
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/dfg/src/honey-highway.png"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/honey-highway-1.png"
 					href="https://files.teamswitch.dev/newsletter/dfg/src/honey-highway.pdf"
 					alt=""
 				/>
@@ -166,7 +166,7 @@
 						INITIATIVE!</strong
 					><br />
 					<br />
-					In this CSR newsletter, we would like to give you an update
+					In this Sustainability newsletter, we would like to give you an update
 					on the Honey Highway in Aalsmeer. Colleagues of the DFG
 					companies have been working on reseeding the Honey Highway
 					in Aalsmeer. We expect another beautiful flowering Honey
@@ -317,7 +317,6 @@
 					"Speeddate")
 				</mj-text>
 			</mj-column>
-		</mj-section>
 		</mj-section>
 
 		<mj-section> </mj-section>
