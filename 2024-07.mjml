@@ -1,0 +1,506 @@
+<mjml>
+	<mj-head>
+		<mj-font
+			name="Urbana"
+			href="https://use.typekit.net/tnf8jkx.css"
+		></mj-font>
+		<mj-breakpoint width="500px" />
+		<mj-attributes>
+			<mj-section padding="20px" background-color="white" />
+			<mj-column padding="40px 20px 20px" />
+			<mj-text padding="0 0 20px" />
+			<mj-image padding="0 0 20px" />
+
+			<mj-all font-family="Arial" />
+			<mj-all font-size="14px" />
+			<mj-all line-height="1.4" />
+			<mj-all color="#5A5A5A" />
+
+			<mj-class name="text-white" color="white" />
+			<mj-class
+				name="title"
+				font-weight="300"
+				font-size="36px"
+				font-family="Urbana, Arial, sans-serif"
+			/>
+			<mj-class name="card" padding="0" />
+			<mj-class name="item" padding-top="0" padding-bottom="0" />
+			<mj-class name="full" padding="0" />
+		</mj-attributes>
+		<mj-style inline="inline">
+			.gradient-purple > table { background-color: #64328A !important;
+			background: linear-gradient(to right, #64328A 0%, #33ACE3 100%)
+			!important; } .gradient-red > table { background-color: #AD1E22
+			!important; background: linear-gradient(to right, #AD1E22 0%,
+			#E91C23 100%) !important; } .gradient-yellow > table {
+			background-color: #00983A !important; background: linear-gradient(to
+			right, #00983A 0%, #FBCD02 100%) !important; } .gradient-green >
+			table { background-color: #2E543B !important; background:
+			linear-gradient(to right, #2E543B 0%, #588252 100%) !important; }
+			.purple > table { background-color: #005DA4 !important;} .red >
+			table { background-color: #AD1E22 !important; %) } .yellow > table {
+			background-color: #00983A !important; } .green > table {
+			background-color: #2E543B !important; }
+		</mj-style>
+	</mj-head>
+	<mj-body background-color="#EEEEEE">
+		<mj-section padding="0">
+			<mj-column width="600px" padding="0">
+				<mj-image
+					width="600px"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-2024-jul.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding-bottom="0">
+			<mj-column width="560px">
+				<mj-text>
+					Dear colleague,<br />
+					<br />
+					During my 3 month sabbatical, our sustainability colleagues
+					have been working on our IMPACT25 projects and in this
+					newsletter I would like to give an update about our
+					progress. I look forward to speaking with you again and
+					hearing about everything that has happened. Together we will
+					shape IMPACT2030 in the coming months.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column vertical-align="middle" width="280px" padding-bottom="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/intro.png"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="280px" padding-bottom="0">
+				<mj-text>
+					Colourful regards,<br />
+					<br />
+					<strong>Raimon Loman</strong><br />
+					Group Sustainability Manager Dutch Flower Group
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="20px 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-purple.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="purple">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/title-blue.png"
+					alt="DFG Fairtrade result 2022"
+					width="520px"
+					height="40px"
+					align="left"
+				/>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/foto-famke-brokking.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/interview-famke.jpg"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					<strong>SUSTAINABILITY MANAGER IN THE SPOTLIGHT</strong
+					><br />
+					<br />
+					What is the most important focus point in e-Flora's
+					sustainability strategy? Famke Brokking, Sustainability
+					Manager at e-Flora, shares all the details. She also reveals
+					which project excites her the most.
+				</mj-text>
+				<!-- TODO: interview lage kwaliteit -->
+				<!-- 291px / 394px -->
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-blue-read-full-interview.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/interview-famke.jpg"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="purple">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/dfg-faitrade-sourcing-impact-report-2024.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/dfg-faitrade-sourcing-impact-report-2024.pdf"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					<strong>FAIRTRADE JAARCIJFERS</strong><br />
+					<br />
+					The total Fairtrade Premium generated from Fairtrade flower
+					sourcing by DFG during 2023 was €3.1 million which was an
+					increase of 1% compared to 2022. DFG sourced over 364
+					million Fairtrade flower stems. Since 2018 DFG flower
+					sourcing has generated over €16 million in Fairtrade Premium
+					for flower producers and their communities.
+				</mj-text>
+				<!-- 291px / 394px -->
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-blue-read-the-full-report.png"
+					href="https://files.teamswitch.dev/newsletter/dfg/src/dfg-faitrade-sourcing-impact-report-2024.pdf"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/bottom-purple.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="20px 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-red.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="red">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/title-red.png"
+					href=""
+					alt=""
+					width="520px"
+					height="40px"
+					align="left"
+				/>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/training-flori-footprint-tool.png"
+					href="https://dfg.nl/en/news/dutch-flower-group-enters-into-partnership-with-greenhouse-sustainability/"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					<strong
+						>DUTCH FLOWER GROUP ENTERS INTO PARTNERSHIP WITH
+						GREENHOUSE SUSTAINABILITY</strong
+					><br />
+					<br />
+					Dutch Flower Group (DFG) will be using the Flori Footprint
+					Tool developed by Greenhouse Sustainability to gain a
+					reliable overview of the environmental impact of its
+					products. All DFG Sustainability ambassadors attended a
+					training about the Flori Footprint Tool.
+				</mj-text>
+				<!-- 291px / 394px -->
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-red-read-more.png"
+					href="https://dfg.nl/en/news/dutch-flower-group-enters-into-partnership-with-greenhouse-sustainability/"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/bottom-red.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="20px 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-green.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="green">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/title-green.png"
+					href=""
+					alt=""
+					width="267px"
+					height="40px"
+					align="left"
+				/>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/90-recycled-sleeves.png"
+					href="http://files.teamswitch.dev/newsletter/dfg/src/90%-recycled-sleeves.pdf"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					<strong
+						>90% RECYCLED SLEEVES AND WRAPS AT SAINSBURY'S!</strong
+					><br />
+					<br />
+					In this section of our newsletter we want to emphazise one
+					of the "green examples" from our DFG companies. Herewith an
+					example from SuperFlora on recycled sleeves and wraps at
+					Sainsbury's.
+				</mj-text>
+				<!-- 291px / 394px -->
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-green-read-more.png"
+					href="http://files.teamswitch.dev/newsletter/dfg/src/90%-recycled-sleeves.pdf"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="green">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/honey-highway-01.png"
+					href="https://dfg.nl/nl/nieuws/bijenpark-aalsmeer-voltooid-ingezaaid-met-wilde-bloemen/"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					<strong
+						>BEE PARK AALSMEER COMPLETED: SEEDED WITH WILD
+						FLOWERS</strong
+					><br />
+					<br />
+					After planting 1,000 m² of perennials in March, 3,500 m² was
+					seeded with wildflowers at the Bee Park VBA South in early
+					June. With this, the 4,500 m² bee park is completed and will
+					provide food for wild bees, other insects, and birds.
+				</mj-text>
+				<!-- 291px / 394px -->
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-green-read-more-dutch.png"
+					href="https://dfg.nl/nl/nieuws/bijenpark-aalsmeer-voltooid-ingezaaid-met-wilde-bloemen/"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/bottom-green.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section> </mj-section>
+
+		<!-- <mj-section padding="0 0 0 0">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-events.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card" padding-top="20px">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-26-mar.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text
+					>Sustainability Ambassador meeting (Certifeye 2024, and how
+					to use Artifical Inteligence for Sustainability)</mj-text
+				>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-23-apr.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text
+					>Sustainability Ambassador meeting (update from DFG
+					Sustainability Counsil on current projects)</mj-text
+				>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/date-21-may.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text
+					>Sustainability Ambassador meeting (tour @ Coloriginz &
+					"Speeddate")
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section> </mj-section> -->
+
+		<mj-section padding="0 0 0 0">
+			<mj-column padding="0">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/heading-next.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card" padding-top="20px">
+			<mj-column
+				width="60px"
+				vertical-align="middle"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-round.png"
+					alt=""
+					width="40px"
+					height="40px"
+				/>
+			</mj-column>
+			<mj-column width="480px" vertical-align="middle" mj-class="item">
+				<mj-text
+					>Sustainability manager in the spotlight: José van der
+					Klaauw
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				width="60px"
+				vertical-align="middle"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-round.png"
+					alt=""
+					width="40px"
+					height="40px"
+				/>
+			</mj-column>
+			<mj-column width="480px" vertical-align="middle" mj-class="item">
+				<mj-text>Introduction: Marjon van Diepen</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				width="60px"
+				vertical-align="middle"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/button-round.png"
+					alt=""
+					width="40px"
+					height="40px"
+				/>
+			</mj-column>
+			<mj-column width="480px" vertical-align="middle" mj-class="item">
+				<mj-text>Zero Waste</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section background-color="#ffffff"> </mj-section>
+
+		<mj-section
+			mj-class="full"
+			background-color="#00983A"
+			background-position="right"
+			background-size="600px"
+		>
+			<mj-column width="600px">
+				<mj-text
+					mj-class="text-white"
+					padding-left="20px"
+					padding-right="20px"
+				>
+					Read more about our sustainability strategy IMPACT25 in
+					<!-- TODO: update the flipbook link to the one for this newsletter -->
+					<a
+						style="color: #ffffff"
+						href="https://dfg.nl/flipbook/impact25/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juli&utm_content=flipbook"
+						>our flipbook</a
+					>.<br /><br />
+					Do you need text or images in high resolution? Please
+					contact
+					<a style="color: #ffffff" href="mailto:marketing@dfg.nl"
+						>marketing@dfg.nl</a
+					>
+					<br />
+					<br />
+					<strong
+						>Do you have any questions or feedback about this
+						newsletter, please contact
+						<a
+							style="color: #ffffff"
+							href="mailto:raimon.loman@dfg.nl"
+							>raimon.loman@dfg.nl</a
+						></strong
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="full">
+			<mj-column width="360px" vertical-align="middle">
+				<mj-text>
+					Unsubscribe
+					<a style="color: #009d26" href="*|UNSUB|*">here</a>
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="middle">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/dfg/src/footer-logo-2.png"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
