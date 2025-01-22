@@ -183,6 +183,7 @@
 				<!-- TODO: UTM link -->
 				<mj-image
 					width="291px"
+					height="48px"
 					align="left"
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button.png"
 					href="https://dfg.nl/flipbook/impact2030"
@@ -201,10 +202,11 @@
 			</mj-column>
 		</mj-section>
 
+		<!-- Next Issue -->
 		<mj-section padding="20px 0 0 0">
 			<mj-column padding="0">
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/heading-next.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading-next.png"
 					alt=""
 					padding="0"
 				/>
@@ -270,9 +272,10 @@
 
 		<mj-section background-color="#ffffff"> </mj-section>
 
+		<!-- Footer -->
 		<mj-section
 			mj-class="full"
-			background-color="#00983A"
+			background-color="rgb(91, 175, 48)"
 			background-position="right"
 			background-size="600px"
 		>
@@ -312,7 +315,7 @@
 			<mj-column width="360px" vertical-align="middle">
 				<mj-text>
 					Unsubscribe
-					<a style="color: #009d26" href="*|UNSUB|*">here</a>
+					<a style="color: rgb(91, 175, 48)" href="*|UNSUB|*">here</a>
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="middle">
