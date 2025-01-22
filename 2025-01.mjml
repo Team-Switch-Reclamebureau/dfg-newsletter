@@ -50,11 +50,20 @@
 			<mj-column width="560px">
 				<mj-text>
 					Dear colleague,<br />
-					Over the past year, we have been working on renewing our Sustainability strategy. With valuable input from all our DFG companies, we have co-created our Sustainability strategy towards 2030: IMPACT2030. In the past few weeks, Marcel en I shared the strategy with DFG companies and celebrated the launch by distributing the materials.<br />
+					Over the past year, we have been working on renewing our
+					Sustainability strategy. With valuable input from all our
+					DFG companies, we have co-created our Sustainability
+					strategy towards 2030: IMPACT2030. In the past few weeks,
+					Marcel en I shared the strategy with DFG companies and
+					celebrated the launch by distributing the materials.<br />
 					<br />
-					From now on, the strategy is externally available, and in this newsletter, you will find all the resources available to support you. Share these with the relevant colleagues within your organisation.<br />
+					From now on, the strategy is externally available, and in
+					this newsletter, you will find all the resources available
+					to support you. Share these with the relevant colleagues
+					within your organisation.<br />
 					<br />
-					We look forward to working together with you on IMPACT2030 in the coming years!
+					We look forward to working together with you on IMPACT2030
+					in the coming years!
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -85,285 +94,113 @@
 			</mj-column>
 		</mj-section>
 		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="100%" css-class="green">
+			<mj-column width="100%" css-class="green" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/01.png"
+					alt=""
+				/>
+				<mj-text mj-class="text-white" padding-bottom="0">
+					<strong>Animation IMPACT2030</strong><br />
+					<br />
+					In the SharePoint available to the Sustainability
+					Ambassadors, you will find an animation that brings the
+					IMPACT2030 brochure to life. This can be used both
+					internally and externally.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/footing.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="20px 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="green" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/01.png"
+					alt=""
+				/>
+				<mj-text mj-class="text-white" padding-bottom="0">
+					<strong>Presentation IMPACT2030</strong><br />
+					<br />
+					The general presentation about IMPACT2030 is also available
+					on the SharePoint for Sustainability Ambassadors. Let me
+					know if you need further assistance!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/footing.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="20px 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="green" padding="10px 20px">
+				<!-- TODO: analytics -->
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/foto-famke-brokking.png"
-					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/interview-famke.jpg"
+					href="https://dfg.nl/flipbook/impact2030"
 					alt=""
 				/>
 				<mj-text mj-class="text-white">
-					<strong>SUSTAINABILITY MANAGER IN THE SPOTLIGHT</strong
-					><br />
+					<strong>Online brochure - IMPACT2030 flipbook</strong><br />
 					<br />
-					What is the most important focus point in e-Flora's
-					sustainability strategy? Famke Brokking, Sustainability
-					Manager at e-Flora, shares all the details. She also reveals
-					which project excites her the most.
+					"On https://dfg.nl/flipbook/impact2030 you will find the
+					digital, flip-through version of the brochure. You can also
+					reach this online brochure by scanning the QR code on the
+					back cover of the brochure. If you need more brochures,
+					please contact me. "
 				</mj-text>
-				<!-- TODO: interview lage kwaliteit -->
 				<!-- 291px / 394px -->
 				<mj-image
 					width="291px"
 					align="left"
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/button-blue-read-full-interview.png"
-					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/interview-famke.jpg"
+					href="https://dfg.nl/flipbook/impact2030"
 					alt=""
-				/>
-			</mj-column>
-		</mj-section>
-		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="100%" css-class="green">
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/dfg-faitrade-sourcing-impact-report-2024.png"
-					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/dfg-faitrade-sourcing-impact-report-2024.pdf"
-					alt=""
-				/>
-				<mj-text mj-class="text-white">
-					<strong>FAIRTRADE JAARCIJFERS</strong><br />
-					<br />
-					The total Fairtrade Premium generated from Fairtrade flower
-					sourcing by DFG during 2023 was €3.1 million which was an
-					increase of 1% compared to 2022. DFG sourced over 364
-					million Fairtrade flower stems. Since 2018 DFG flower
-					sourcing has generated over €16 million in Fairtrade Premium
-					for flower producers and their communities.
-				</mj-text>
-				<!-- 291px / 394px -->
-				<mj-image
-					width="291px"
-					align="left"
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/button-blue-read-the-full-report.png"
-					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/dfg-faitrade-sourcing-impact-report-2024.pdf"
-					alt=""
+					padding="0"
 				/>
 			</mj-column>
 		</mj-section>
 		<mj-section padding="0 20px 0 20px">
 			<mj-column padding="0">
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/bottom-purple.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/footing.png"
 					alt=""
 					padding="0"
 				/>
 			</mj-column>
 		</mj-section>
 
-		<mj-section padding="20px 20px 0 20px">
-			<mj-column padding="0">
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/heading-red.png"
-					alt=""
-					padding="0"
-				/>
-			</mj-column>
-		</mj-section>
-		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="100%" css-class="green">
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/title-red.png"
-					href=""
-					alt=""
-					width="520px"
-					height="40px"
-					align="left"
-				/>
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/training-flori-footprint-tool.png"
-					href="https://dfg.nl/en/news/dutch-flower-group-enters-into-partnership-with-greenhouse-sustainability/"
-					alt=""
-				/>
-				<mj-text mj-class="text-white">
-					<strong
-						>DUTCH FLOWER GROUP ENTERS INTO PARTNERSHIP WITH
-						GREENHOUSE SUSTAINABILITY</strong
-					><br />
-					<br />
-					Dutch Flower Group (DFG) will be using the Flori Footprint
-					Tool developed by Greenhouse Sustainability to gain a
-					reliable overview of the environmental impact of its
-					products. All DFG Sustainability ambassadors attended a
-					training about the Flori Footprint Tool.
-				</mj-text>
-				<!-- 291px / 394px -->
-				<mj-image
-					width="291px"
-					align="left"
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/button-red-read-more.png"
-					href="https://dfg.nl/en/news/dutch-flower-group-enters-into-partnership-with-greenhouse-sustainability/"
-					alt=""
-				/>
-			</mj-column>
-		</mj-section>
-		<mj-section padding="0 20px 0 20px">
-			<mj-column padding="0">
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/bottom-red.png"
-					alt=""
-					padding="0"
-				/>
-			</mj-column>
-		</mj-section>
-
-		<mj-section padding="20px 20px 0 20px">
-			<mj-column padding="0">
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/heading-green.png"
-					alt=""
-					padding="0"
-				/>
-			</mj-column>
-		</mj-section>
-		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="100%" css-class="green">
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/title-green.png"
-					href=""
-					alt=""
-					width="267px"
-					height="40px"
-					align="left"
-				/>
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/90-recycled-sleeves.png"
-					href="http://files.teamswitch.dev/newsletter/dfg/src/90%-recycled-sleeves.pdf"
-					alt=""
-				/>
-				<mj-text mj-class="text-white">
-					<strong
-						>90% RECYCLED SLEEVES AND WRAPS AT SAINSBURY'S!</strong
-					><br />
-					<br />
-					In this section of our newsletter we want to emphazise one
-					of the "green examples" from our DFG companies. Herewith an
-					example from SuperFlora on recycled sleeves and wraps at
-					Sainsbury's.
-				</mj-text>
-				<!-- 291px / 394px -->
-				<mj-image
-					width="291px"
-					align="left"
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/button-green-read-more.png"
-					href="http://files.teamswitch.dev/newsletter/dfg/src/90%-recycled-sleeves.pdf"
-					alt=""
-				/>
-			</mj-column>
-		</mj-section>
-		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="100%" css-class="green">
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/honey-highway-01.png"
-					href="https://dfg.nl/nl/nieuws/bijenpark-aalsmeer-voltooid-ingezaaid-met-wilde-bloemen/"
-					alt=""
-				/>
-				<mj-text mj-class="text-white">
-					<strong
-						>BEE PARK AALSMEER COMPLETED: SEEDED WITH WILD
-						FLOWERS</strong
-					><br />
-					<br />
-					After planting 1,000 m² of perennials in March, 3,500 m² was
-					seeded with wildflowers at the Bee Park VBA South in early
-					June. With this, the 4,500 m² bee park is completed and will
-					provide food for wild bees, other insects, and birds.
-				</mj-text>
-				<!-- 291px / 394px -->
-				<mj-image
-					width="291px"
-					align="left"
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/button-green-read-more-dutch.png"
-					href="https://dfg.nl/nl/nieuws/bijenpark-aalsmeer-voltooid-ingezaaid-met-wilde-bloemen/"
-					alt=""
-				/>
-			</mj-column>
-		</mj-section>
-		<mj-section padding="0 20px 0 20px">
-			<mj-column padding="0">
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/bottom-green.png"
-					alt=""
-					padding="0"
-				/>
-			</mj-column>
-		</mj-section>
-
-		<mj-section> </mj-section>
-
-		<!-- <mj-section padding="0 0 0 0">
-			<mj-column padding="0">
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/heading-events.png"
-					alt=""
-					padding="0"
-				/>
-			</mj-column>
-		</mj-section>
-		<mj-section mj-class="card" padding-top="20px">
-			<mj-column
-				vertical-align="middle"
-				width="80px"
-				padding-right="0"
-				mj-class="item"
-			>
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/date-26-mar.png"
-					alt=""
-					width="60px"
-					height="60px"
-				/>
-			</mj-column>
-			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text
-					>Sustainability Ambassador meeting (Certifeye 2024, and how
-					to use Artifical Inteligence for Sustainability)</mj-text
-				>
-			</mj-column>
-		</mj-section>
-		<mj-section mj-class="card">
-			<mj-column
-				vertical-align="middle"
-				width="80px"
-				padding-right="0"
-				mj-class="item"
-			>
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/date-23-apr.png"
-					alt=""
-					width="60px"
-					height="60px"
-				/>
-			</mj-column>
-			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text
-					>Sustainability Ambassador meeting (update from DFG
-					Sustainability Counsil on current projects)</mj-text
-				>
-			</mj-column>
-		</mj-section>
-		<mj-section mj-class="card">
-			<mj-column
-				vertical-align="middle"
-				width="80px"
-				padding-right="0"
-				mj-class="item"
-			>
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/date-21-may.png"
-					alt=""
-					width="60px"
-					height="60px"
-				/>
-			</mj-column>
-			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text
-					>Sustainability Ambassador meeting (tour @ Coloriginz &
-					"Speeddate")
-				</mj-text>
-			</mj-column>
-		</mj-section>
-
-		<mj-section> </mj-section> -->
-
-		<mj-section padding="0 0 0 0">
+		<mj-section padding="20px 0 0 0">
 			<mj-column padding="0">
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/heading-next.png"
