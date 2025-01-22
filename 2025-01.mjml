@@ -28,19 +28,10 @@
 			<mj-class name="full" padding="0" />
 		</mj-attributes>
 		<mj-style inline="inline">
-			.gradient-purple > table { background-color: #64328A !important;
-			background: linear-gradient(to right, #64328A 0%, #33ACE3 100%)
-			!important; } .gradient-red > table { background-color: #AD1E22
-			!important; background: linear-gradient(to right, #AD1E22 0%,
-			#E91C23 100%) !important; } .gradient-yellow > table {
-			background-color: #00983A !important; background: linear-gradient(to
-			right, #00983A 0%, #FBCD02 100%) !important; } .gradient-green >
-			table { background-color: #2E543B !important; background:
-			linear-gradient(to right, #2E543B 0%, #588252 100%) !important; }
 			.purple > table { background-color: #005DA4 !important;} .red >
 			table { background-color: #AD1E22 !important; %) } .yellow > table {
 			background-color: #00983A !important; } .green > table {
-			background-color: #2E543B !important; }
+			background-color: rgb(91, 175, 48) !important; }
 		</mj-style>
 	</mj-head>
 	<mj-body background-color="#EEEEEE">
@@ -48,7 +39,7 @@
 			<mj-column width="600px" padding="0">
 				<mj-image
 					width="600px"
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/25/01/heading.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/hero.png"
 					alt=""
 					padding="0"
 				/>
@@ -70,7 +61,7 @@
 		<mj-section padding-top="0" padding-bottom="0">
 			<mj-column vertical-align="middle" width="280px" padding-bottom="0">
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/intro.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/intro.png"
 					alt=""
 				/>
 			</mj-column>
@@ -87,21 +78,14 @@
 		<mj-section padding="20px 20px 0 20px">
 			<mj-column padding="0">
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/heading-purple.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading.png"
 					alt=""
 					padding="0"
 				/>
 			</mj-column>
 		</mj-section>
 		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="100%" css-class="purple">
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/title-blue.png"
-					alt="DFG Fairtrade result 2022"
-					width="520px"
-					height="40px"
-					align="left"
-				/>
+			<mj-column width="100%" css-class="green">
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/foto-famke-brokking.png"
 					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/interview-famke.jpg"
@@ -128,7 +112,7 @@
 			</mj-column>
 		</mj-section>
 		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="100%" css-class="purple">
+			<mj-column width="100%" css-class="green">
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/dfg-faitrade-sourcing-impact-report-2024.png"
 					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/dfg-faitrade-sourcing-impact-report-2024.pdf"
@@ -174,7 +158,7 @@
 			</mj-column>
 		</mj-section>
 		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="100%" css-class="red">
+			<mj-column width="100%" css-class="green">
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/title-red.png"
 					href=""
