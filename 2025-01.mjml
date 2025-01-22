@@ -96,7 +96,7 @@
 		<mj-section padding-top="0" padding-bottom="0">
 			<mj-column width="100%" css-class="green" padding="10px 20px">
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/01.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/1.jpg"
 					alt=""
 				/>
 				<mj-text mj-class="text-white" padding-bottom="0">
@@ -131,7 +131,7 @@
 		<mj-section padding-top="0" padding-bottom="0">
 			<mj-column width="100%" css-class="green" padding="10px 20px">
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/01.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/2.jpg"
 					alt=""
 				/>
 				<mj-text mj-class="text-white" padding-bottom="0">
@@ -166,7 +166,7 @@
 			<mj-column width="100%" css-class="green" padding="10px 20px">
 				<!-- TODO: UTM link -->
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/foto-famke-brokking.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/3.jpg"
 					href="https://dfg.nl/flipbook/impact2030"
 					alt=""
 				/>
