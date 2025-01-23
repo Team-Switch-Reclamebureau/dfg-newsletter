@@ -19,7 +19,7 @@
 			<mj-class name="text-white" color="white" />
 			<mj-class
 				name="title"
-				font-weight="300"
+				font-weight="500"
 				font-size="36px"
 				font-family="Urbana, Arial, sans-serif"
 			/>
@@ -28,8 +28,9 @@
 			<mj-class name="full" padding="0" />
 		</mj-attributes>
 		<mj-style inline="inline">
-			.purple > table { background-color: #005DA4 !important;} .red >
-			table { background-color: #AD1E22 !important; %) } .yellow > table {
+			a { color: inherit; text-decoration: undeline; } .purple > table {
+			background-color: #005DA4 !important;} .red > table {
+			background-color: #AD1E22 !important; %) } .yellow > table {
 			background-color: #00983A !important; } .green > table {
 			background-color: rgb(91, 175, 48) !important; }
 		</mj-style>
@@ -50,6 +51,7 @@
 			<mj-column width="560px">
 				<mj-text>
 					Dear colleague,<br />
+					<br />
 					Over the past year, we have been working on renewing our
 					Sustainability strategy. With valuable input from all our
 					DFG companies, we have co-created our Sustainability
@@ -95,13 +97,14 @@
 		</mj-section>
 		<mj-section padding-top="0" padding-bottom="0">
 			<mj-column width="100%" css-class="green" padding="10px 20px">
+				<mj-text mj-class="text-white title">
+					Animation IMPACT2030
+				</mj-text>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/1.jpg"
 					alt=""
 				/>
 				<mj-text mj-class="text-white" padding-bottom="0">
-					<strong>Animation IMPACT2030</strong><br />
-					<br />
 					In the SharePoint available to the Sustainability
 					Ambassadors, you will find an animation that brings the
 					IMPACT2030 brochure to life. This can be used both
@@ -130,13 +133,14 @@
 		</mj-section>
 		<mj-section padding-top="0" padding-bottom="0">
 			<mj-column width="100%" css-class="green" padding="10px 20px">
+				<mj-text mj-class="text-white title">
+					Presentation IMPACT2030
+				</mj-text>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/2.jpg"
 					alt=""
 				/>
 				<mj-text mj-class="text-white" padding-bottom="0">
-					<strong>Presentation IMPACT2030</strong><br />
-					<br />
 					The general presentation about IMPACT2030 is also available
 					on the SharePoint for Sustainability Ambassadors. Let me
 					know if you need further assistance!
@@ -165,19 +169,24 @@
 		<mj-section padding-top="0" padding-bottom="0">
 			<mj-column width="100%" css-class="green" padding="10px 20px">
 				<!-- TODO: UTM link -->
+				<mj-text mj-class="text-white title">
+					Online brochure - IMPACT2030 flipbook
+				</mj-text>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/3.jpg"
-					href="https://dfg.nl/flipbook/impact2030"
+					href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=januari_25&utm_content=flipbook"
 					alt=""
 				/>
 				<mj-text mj-class="text-white">
-					<strong>Online brochure - IMPACT2030 flipbook</strong><br />
-					<br />
-					On https://dfg.nl/flipbook/impact2030 you will find the
-					digital, flip-through version of the brochure. You can also
-					reach this online brochure by scanning the QR code on the
-					back cover of the brochure. If you need more brochures,
-					please contact me.
+					On
+					<a
+						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=januari_25&utm_content=flipbook"
+						>dfg.nl/flipbook/impact2030</a
+					>
+					you will find the digital, flip-through version of the
+					brochure. You can also reach this online brochure by
+					scanning the QR code on the back cover of the brochure. If
+					you need more brochures, please contact me.
 				</mj-text>
 				<!-- 291px / 394px -->
 				<!-- TODO: UTM link -->
@@ -186,7 +195,7 @@
 					height="48px"
 					align="left"
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button.png"
-					href="https://dfg.nl/flipbook/impact2030"
+					href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=januari_25&utm_content=flipbook"
 					alt=""
 					padding="0"
 				/>
@@ -360,11 +369,11 @@
 					padding-left="20px"
 					padding-right="20px"
 				>
-					Read more about our sustainability strategy IMPACT25 in
+					Read more about our sustainability strategy IMPACT2030 in
 					<!-- TODO: update the flipbook link to the one for this newsletter -->
 					<a
 						style="color: #ffffff"
-						href="https://dfg.nl/flipbook/impact25/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juli&utm_content=flipbook"
+						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=januari_25&utm_content=flipbook"
 						>our flipbook</a
 					>.<br /><br />
 					Do you need text or images in high resolution? Please
