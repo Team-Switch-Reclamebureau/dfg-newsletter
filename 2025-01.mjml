@@ -67,7 +67,7 @@
 					Sustainability strategy. With valuable input from all our
 					DFG companies, we have co-created our Sustainability
 					strategy towards 2030: IMPACT2030. In the past few weeks,
-					Marcel en I shared the strategy with DFG companies and
+					Marcel and I shared the strategy with DFG companies and
 					celebrated the launch by distributing the materials.<br />
 					<br />
 					From now on, the strategy is externally available, and in
@@ -97,7 +97,7 @@
 			</mj-column>
 		</mj-section>
 
-		<mj-section padding-top="20px" padding="0">
+		<mj-section padding="0 20px">
 			<mj-column width="100%" css-class="" padding="10px 20px">
 				<mj-text mj-class="title-2"> Launch IMPACT2030 </mj-text>
 				<mj-image
@@ -105,9 +105,7 @@
 					alt=""
 				/>
 				<mj-text mj-class="" padding-bottom="0">
-					Here is a collage showcasing the rollout across the DFG
-					companies. A heartfelt thank you to everyone for your time
-					and productive discussions!
+					The collage is showcasing the launch across the DFG companies. Thank you to everyone for your time and productive discussions!
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -118,7 +116,7 @@
 			</mj-column>
 		</mj-section>
 
-		<mj-section padding="0">
+		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
 				<mj-text mj-class="title-2"> Animation IMPACT2030 </mj-text>
 				<mj-image
@@ -140,8 +138,8 @@
 			</mj-column>
 		</mj-section>
 
-		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="100%" css-class="" padding="0">
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
 				<mj-text mj-class="title-2">
 					Presentation IMPACT2030
 				</mj-text>
@@ -163,8 +161,8 @@
 			</mj-column>
 		</mj-section>
 
-		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="100%" css-class="" padding="0">
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
 				<mj-text mj-class="title-2">
 					Online brochure - IMPACT2030 flipbook
 				</mj-text>
