@@ -1,3 +1,4 @@
 # DFG Newsletter
 
-url: team-switch-reclamebureau.io/dfg-newsletter/
+## previews 
+- [januari 2025](https://team-switch-reclamebureau.github.io/dfg-newsletter/2025-01.html)
