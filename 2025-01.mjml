@@ -16,7 +16,17 @@
 			<mj-all line-height="1.4" />
 			<mj-all color="#5A5A5A" />
 
+			<mj-divider border-width="2px" border-color="rgb(91, 175, 48)" />
+
 			<mj-class name="text-white" color="white" />
+			<mj-class
+				name="title-2"
+				font-weight="500"
+				font-size="36px"
+				font-family="Urbana, Arial, sans-serif"
+				line-height="1"
+				color="rgb(91, 175, 48)"
+			/>
 			<mj-class
 				name="title"
 				font-weight="500"
@@ -87,7 +97,109 @@
 			</mj-column>
 		</mj-section>
 
-		<mj-section padding="20px 20px 0 20px">
+		<mj-section padding-top="20px" padding="0">
+			<mj-column width="100%" css-class="" padding="10px 20px">
+				<mj-text mj-class="title-2"> Launch IMPACT2030 </mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/4.jpg"
+					alt=""
+				/>
+				<mj-text mj-class="" padding-bottom="0">
+					Here is a collage showcasing the rollout across the DFG
+					companies. A heartfelt thank you to everyone for your time
+					and productive discussions!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title-2"> Animation IMPACT2030 </mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/1.jpg"
+					alt=""
+				/>
+				<mj-text mj-class="" padding-bottom="0">
+					In the SharePoint available to the Sustainability
+					Ambassadors, you will find an animation that brings the
+					IMPACT2030 brochure to life. This can be used both
+					internally and externally.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="" padding="0">
+				<mj-text mj-class="title-2">
+					Presentation IMPACT2030
+				</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/2.jpg"
+					alt=""
+				/>
+				<mj-text mj-class="" padding-bottom="0">
+					The general presentation about IMPACT2030 is also available
+					on the SharePoint for Sustainability Ambassadors. Let me
+					know if you need further assistance!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="" padding="0">
+				<mj-text mj-class="title-2">
+					Online brochure - IMPACT2030 flipbook
+				</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/3.jpg"
+					href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=januari_25&utm_content=flipbook"
+					alt=""
+				/>
+				<mj-text mj-class="">
+					On
+					<a
+						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=januari_25&utm_content=flipbook"
+						>dfg.nl/flipbook/impact2030</a
+					>
+					you will find the digital, flip-through version of the
+					brochure. You can also reach this online brochure by
+					scanning the QR code on the back cover of the brochure. If
+					you need more brochures, please contact me.
+				</mj-text>
+				<!-- 291px / 394px -->
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button.png"
+					href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=januari_25&utm_content=flipbook"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<!--  -->
+
+		<!-- <mj-section padding="20px 20px 0 20px">
 			<mj-column padding="0">
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading.png"
@@ -169,7 +281,6 @@
 		</mj-section>
 		<mj-section padding-top="0" padding-bottom="0">
 			<mj-column width="100%" css-class="green" padding="10px 20px">
-				<!-- TODO: UTM link -->
 				<mj-text mj-class="text-white title">
 					Online brochure - IMPACT2030 flipbook
 				</mj-text>
@@ -189,8 +300,6 @@
 					scanning the QR code on the back cover of the brochure. If
 					you need more brochures, please contact me.
 				</mj-text>
-				<!-- 291px / 394px -->
-				<!-- TODO: UTM link -->
 				<mj-image
 					width="291px"
 					height="48px"
@@ -210,9 +319,9 @@
 					padding="0"
 				/>
 			</mj-column>
-		</mj-section>
+		</mj-section> -->
 
-		<mj-section padding="20px 0 0 0">
+		<mj-section padding="40px 0 0 0">
 			<mj-column padding="0">
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading-events.png"
