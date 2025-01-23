@@ -229,17 +229,14 @@
 				mj-class="item"
 			>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/date-26-mar.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/feb-11.png"
 					alt=""
 					width="60px"
 					height="60px"
 				/>
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text
-					>Sustainability Ambassador meeting (Certifeye 2024, and how
-					to use Artifical Inteligence for Sustainability)</mj-text
-				>
+				<mj-text>DFG Sustainability Day @ Lely</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -250,17 +247,14 @@
 				mj-class="item"
 			>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/date-23-apr.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/mar.png"
 					alt=""
 					width="60px"
 					height="60px"
 				/>
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text
-					>Sustainability Ambassador meeting (update from DFG
-					Sustainability Counsil on current projects)</mj-text
-				>
+				<mj-text>Sustainability Ambassador meeting</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -271,17 +265,14 @@
 				mj-class="item"
 			>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/date-21-may.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/apr.png"
 					alt=""
 					width="60px"
 					height="60px"
 				/>
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text
-					>Sustainability Ambassador meeting (tour @ Coloriginz &
-					"Speeddate")
-				</mj-text>
+				<mj-text>DFG Sustainability Day @ DS Smith</mj-text>
 			</mj-column>
 		</mj-section>
 
@@ -312,10 +303,7 @@
 				/>
 			</mj-column>
 			<mj-column width="480px" vertical-align="middle" mj-class="item">
-				<mj-text
-					>Sustainability manager in the spotlight: José van der
-					Klaauw
-				</mj-text>
+				<mj-text>SBTi</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -333,7 +321,7 @@
 				/>
 			</mj-column>
 			<mj-column width="480px" vertical-align="middle" mj-class="item">
-				<mj-text>Introduction: Marjon van Diepen</mj-text>
+				<mj-text>Carbon footprint</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -351,7 +339,7 @@
 				/>
 			</mj-column>
 			<mj-column width="480px" vertical-align="middle" mj-class="item">
-				<mj-text>Zero Waste</mj-text>
+				<mj-text>Marjon van Diepen in the spotlights</mj-text>
 			</mj-column>
 		</mj-section>
 
