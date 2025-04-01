@@ -106,7 +106,7 @@
 					It marks the starting signal to move forward! So, what are
 					our next steps for CO₂ reduction? Marjon van Diepen, Project
 					Lead Sustainability, explains.
-				</mj-text><!-- 291px / 394px -->
+				</mj-text>
 				<mj-image
 					width="291px"
 					height="48px"
@@ -114,7 +114,7 @@
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more-en.png"
 					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/artikel-sustainability-nieuwsbrief_artikel-marjon-english.docx?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
 					alt=""
-					padding="0"
+					padding="0 0 10px 0"
 				/>
 				<mj-image
 					width="291px"
@@ -136,17 +136,26 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
-				<mj-text mj-class="title-2"> Animation IMPACT2030 </mj-text>
+				<mj-text mj-class="title-2">Presentation SBTi</mj-text>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/3.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/2.png"
 					alt=""
 				/>
-				<mj-text mj-class="" padding-bottom="0">
-					In the SharePoint available to the Sustainability
-					Ambassadors, you will find an animation that brings the
-					IMPACT2030 brochure to life. This can be used both
-					internally and externally.
+				<mj-text mj-class="">
+					Herewith the general presetation regarding SBTi, including
+					the implications for our companies. The Powerpoint for the
+					Sustainability Ambassadors is available in Sharepoint. Let
+					Marjon know if you need further assistance!
 				</mj-text>
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/download-the-pdf.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/2025-03-31-sbti-presentation.pdf?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+					alt=""
+					padding="0"
+				/>
 			</mj-column>
 		</mj-section>
 
@@ -158,15 +167,14 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
-				<mj-text mj-class="title-2"> Presentation IMPACT2030 </mj-text>
+				<mj-text mj-class="title-2">Press release SBTi</mj-text>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/2.jpg"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/3.png"
 					alt=""
 				/>
 				<mj-text mj-class="" padding-bottom="0">
-					The general presentation about IMPACT2030 is also available
-					on the SharePoint for Sustainability Ambassadors. Let me
-					know if you need further assistance!
+					Did you allready read the full press release on the DFG
+					website about the SBTi validation?
 				</mj-text>
 			</mj-column>
 		</mj-section>
