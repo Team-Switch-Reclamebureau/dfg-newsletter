@@ -172,10 +172,28 @@
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/3.png"
 					alt=""
 				/>
-				<mj-text mj-class="" padding-bottom="0">
+				<mj-text mj-class="">
 					Did you allready read the full press release on the DFG
 					website about the SBTi validation?
 				</mj-text>
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-in-english.png"
+					href="https://dfg.nl/en/news/dutch-flower-group-first-trade-company-in-the-floriculture-sector-to-be-validated-by-sbti-for-climate-targets/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+					alt=""
+					padding="0 0 10px 0"
+				/>
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-in-dutch.png"
+					href="https://dfg.nl/nl/nieuws/dutch-flower-group-als-eerste-handelsbedrijf-in-de-sierteeltsector-gevalideerd-door-sbti-voor-klimaatdoelstellingen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+					alt=""
+					padding="0"
+				/>
 			</mj-column>
 		</mj-section>
 
