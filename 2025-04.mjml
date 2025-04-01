@@ -1,0 +1,525 @@
+<mjml>
+	<mj-head>
+		<mj-font
+			name="Urbana"
+			href="https://use.typekit.net/tnf8jkx.css"
+		></mj-font>
+		<mj-breakpoint width="500px" />
+		<mj-attributes>
+			<mj-section padding="20px" background-color="white" />
+			<mj-column padding="40px 20px 20px" />
+			<mj-text padding="0 0 20px" />
+			<mj-image padding="0 0 20px" />
+
+			<mj-all font-family="Arial" />
+			<mj-all font-size="14px" />
+			<mj-all line-height="1.4" />
+			<mj-all color="#5A5A5A" />
+
+			<mj-divider border-width="2px" border-color="rgb(91, 175, 48)" />
+
+			<mj-class name="text-white" color="white" />
+			<mj-class
+				name="title-2"
+				font-weight="500"
+				font-size="36px"
+				font-family="Urbana, Arial, sans-serif"
+				line-height="1"
+				color="rgb(91, 175, 48)"
+			/>
+			<mj-class
+				name="title"
+				font-weight="500"
+				font-size="36px"
+				font-family="Urbana, Arial, sans-serif"
+				line-height="1"
+			/>
+			<mj-class name="card" padding="0" />
+			<mj-class name="item" padding-top="0" padding-bottom="0" />
+			<mj-class name="full" padding="0" />
+		</mj-attributes>
+		<mj-style inline="inline">
+			a { color: inherit; text-decoration: undeline; } .purple > table {
+			background-color: #005DA4 !important;} .red > table {
+			background-color: #AD1E22 !important; %) } .yellow > table {
+			background-color: #00983A !important; } .green > table {
+			background-color: rgb(91, 175, 48) !important; }
+		</mj-style>
+	</mj-head>
+	<mj-body background-color="#EEEEEE">
+		<mj-section padding="0">
+			<mj-column width="600px" padding="0">
+				<mj-image
+					width="600px"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/hero.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding-bottom="0">
+			<mj-column width="560px">
+				<mj-text>
+					Dear colleague,<br />
+					<br />
+					We as Dutch Flower Group have become the first trade company
+					in the floriculture sector to receive validation from the
+					Science Based Targets initiative (SBTi) for its climate
+					targets, including ‘scope 3’. Thanks to all the efforts of
+					our DFG Sustainability Team in the past years, our climate
+					targets are now validated by the SBTi. If you want to know
+					more about what this means and what our mutual next steps
+					are, please continue reading this newsletter.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column vertical-align="middle" width="280px" padding-bottom="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/intro.png"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="280px" padding-bottom="0">
+				<mj-text>
+					Colourful regards,<br />
+					<br />
+					<strong>Raimon Loman</strong><br />
+					Group Sustainability Manager<br />Dutch Flower Group
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" css-class="" padding="10px 20px">
+				<mj-text mj-class="title-2"
+					>Next stept in reducing carbon footprint</mj-text
+				>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/1.png"
+					alt=""
+				/>
+				<mj-text mj-class="">
+					We’ve reached a major milestone: DFG has been officially
+					accepted into the Science Based Targets initiative (SBTi).
+					It marks the starting signal to move forward! So, what are
+					our next steps for CO₂ reduction? Marjon van Diepen, Project
+					Lead Sustainability, explains.
+				</mj-text><!-- 291px / 394px -->
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more-en.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/artikel-sustainability-nieuwsbrief_artikel-marjon-english.docx?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+					alt=""
+					padding="0"
+				/>
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more-nl.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/artikel-sustainability-nieuwsbrief_artikel-marjon-dutch.docx?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title-2"> Animation IMPACT2030 </mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/3.png"
+					alt=""
+				/>
+				<mj-text mj-class="" padding-bottom="0">
+					In the SharePoint available to the Sustainability
+					Ambassadors, you will find an animation that brings the
+					IMPACT2030 brochure to life. This can be used both
+					internally and externally.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title-2"> Presentation IMPACT2030 </mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/2.jpg"
+					alt=""
+				/>
+				<mj-text mj-class="" padding-bottom="0">
+					The general presentation about IMPACT2030 is also available
+					on the SharePoint for Sustainability Ambassadors. Let me
+					know if you need further assistance!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title-2">
+					Online brochure - IMPACT2030 flipbook
+				</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/3.jpg"
+					href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+					alt=""
+				/>
+				<mj-text mj-class="">
+					On
+					<a
+						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+						>dfg.nl/flipbook/impact2030</a
+					>
+					you will find the digital, flip-through version of the
+					brochure. You can also reach this online brochure by
+					scanning the QR code on the back cover of the brochure. If
+					you need more brochures, please contact me.
+				</mj-text>
+				<!-- 291px / 394px -->
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button.png"
+					href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<!--  -->
+
+		<!-- <mj-section padding="20px 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="green" padding="10px 20px">
+				<mj-text mj-class="text-white title">
+					Animation IMPACT2030
+				</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/1.jpg"
+					alt=""
+				/>
+				<mj-text mj-class="text-white" padding-bottom="0">
+					In the SharePoint available to the Sustainability
+					Ambassadors, you will find an animation that brings the
+					IMPACT2030 brochure to life. This can be used both
+					internally and externally.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/footing.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="20px 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="green" padding="10px 20px">
+				<mj-text mj-class="text-white title">
+					Presentation IMPACT2030
+				</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/2.jpg"
+					alt=""
+				/>
+				<mj-text mj-class="text-white" padding-bottom="0">
+					The general presentation about IMPACT2030 is also available
+					on the SharePoint for Sustainability Ambassadors. Let me
+					know if you need further assistance!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/footing.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="20px 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="100%" css-class="green" padding="10px 20px">
+				<mj-text mj-class="text-white title">
+					Online brochure - IMPACT2030 flipbook
+				</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/01/3.jpg"
+					href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+					alt=""
+				/>
+				<mj-text mj-class="text-white">
+					On
+					<a
+						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+						>dfg.nl/flipbook/impact2030</a
+					>
+					you will find the digital, flip-through version of the
+					brochure. You can also reach this online brochure by
+					scanning the QR code on the back cover of the brochure. If
+					you need more brochures, please contact me.
+				</mj-text>
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button.png"
+					href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="0 20px 0 20px">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/footing.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section> -->
+
+		<mj-section padding="40px 0 0 0">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading-events.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card" padding-top="20px">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/feb-11.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text>DFG Sustainability Day @ Lely</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/mar.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text>Sustainability Ambassador meeting</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/apr.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text>DFG Sustainability Day @ DS Smith</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section> </mj-section>
+
+		<!-- Next Issue -->
+		<mj-section padding="20px 0 0 0">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading-next.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card" padding-top="20px">
+			<mj-column
+				width="60px"
+				vertical-align="middle"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/arrow.png"
+					alt=""
+					width="40px"
+					height="40px"
+				/>
+			</mj-column>
+			<mj-column width="480px" vertical-align="middle" mj-class="item">
+				<mj-text>SBTi</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				width="60px"
+				vertical-align="middle"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/arrow.png"
+					alt=""
+					width="40px"
+					height="40px"
+				/>
+			</mj-column>
+			<mj-column width="480px" vertical-align="middle" mj-class="item">
+				<mj-text>Carbon footprint</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				width="60px"
+				vertical-align="middle"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/arrow.png"
+					alt=""
+					width="40px"
+					height="40px"
+				/>
+			</mj-column>
+			<mj-column width="480px" vertical-align="middle" mj-class="item">
+				<mj-text>Marjon van Diepen in the spotlights</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section background-color="#ffffff"> </mj-section>
+
+		<!-- Footer -->
+		<mj-section
+			mj-class="full"
+			background-color="rgb(91, 175, 48)"
+			background-position="right"
+			background-size="600px"
+		>
+			<mj-column width="600px">
+				<mj-text
+					mj-class="text-white"
+					padding-left="20px"
+					padding-right="20px"
+				>
+					Read more about our sustainability strategy IMPACT2030 in
+					<!-- TODO: update the flipbook link to the one for this newsletter -->
+					<a
+						style="color: #ffffff"
+						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
+						>our flipbook</a
+					>.<br /><br />
+					Do you need text or images in high resolution? Please
+					contact
+					<a style="color: #ffffff" href="mailto:marketing@dfg.nl"
+						>marketing@dfg.nl</a
+					>
+					<br />
+					<br />
+					<strong
+						>Do you have any questions or feedback about this
+						newsletter, please contact
+						<a
+							style="color: #ffffff"
+							href="mailto:raimon.loman@dfg.nl"
+							>raimon.loman@dfg.nl</a
+						></strong
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="full">
+			<mj-column width="360px" vertical-align="middle">
+				<mj-text>
+					Unsubscribe
+					<a style="color: rgb(91, 175, 48)" href="*|UNSUB|*">here</a>
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="middle">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/footer-logo-2.png"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
