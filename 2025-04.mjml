@@ -98,6 +98,7 @@
 				>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/1.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/artikel-sustainability-nieuwsbrief_artikel-marjon-english.docx?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
 					alt=""
 				/>
 				<mj-text mj-class="">
@@ -111,7 +112,7 @@
 					width="291px"
 					height="48px"
 					align="left"
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more-en.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-in-english.png"
 					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/artikel-sustainability-nieuwsbrief_artikel-marjon-english.docx?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
 					alt=""
 					padding="0 0 10px 0"
@@ -120,7 +121,7 @@
 					width="291px"
 					height="48px"
 					align="left"
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more-nl.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-in-dutch.png"
 					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/artikel-sustainability-nieuwsbrief_artikel-marjon-dutch.docx?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
 					alt=""
 					padding="0"
@@ -139,6 +140,7 @@
 				<mj-text mj-class="title-2">Presentation SBTi</mj-text>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/2.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/2025-03-31-sbti-presentation.pdf?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
 					alt=""
 				/>
 				<mj-text mj-class="">
@@ -170,6 +172,7 @@
 				<mj-text mj-class="title-2">Press release SBTi</mj-text>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/3.png"
+					href="https://dfg.nl/en/news/dutch-flower-group-first-trade-company-in-the-floriculture-sector-to-be-validated-by-sbti-for-climate-targets/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25&utm_content=flipbook"
 					alt=""
 				/>
 				<mj-text mj-class="">
