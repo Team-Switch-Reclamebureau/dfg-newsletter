@@ -110,7 +110,7 @@
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
 					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/fsi-sss-results-dfg-2024.pdf?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
 					alt=""
-					padding="0 0 10px 0"
+					padding="0"
 				/>
 			</mj-column>
 		</mj-section>
