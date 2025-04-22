@@ -94,7 +94,7 @@
 			<mj-column width="100%" css-class="" padding="10px 20px">
 				<mj-text mj-class="title-2">77% certified sourcing!</mj-text>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/1.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/1.png"
 					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/fsi-sss-results-dfg-2024.pdf?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
 					alt=""
 				/>
@@ -124,24 +124,37 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
-				<mj-text mj-class="title-2">Presentation SBTi</mj-text>
+				<mj-text mj-class="title-2"
+					>Working together towards 100% certified sourcing</mj-text
+				>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/2.png"
-					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/2025-03-31-sbti-presentation.pdf?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/2.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/working-together-towards-100-certified-sourcing-by-2027.docx?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
 					alt=""
 				/>
 				<mj-text mj-class="">
-					Herewith the general presetation regarding SBTi, including
-					the implications for our companies. The Powerpoint for the
-					Sustainability Ambassadors is available in Sharepoint. Let
-					Marjon know if you need further assistance!
+					In recent years, DFG has voluntarily worked towards the goal
+					of reaching 90% certified sourcing. As of 2025 we are taking
+					it to the next level by working together towards the
+					mandatory target of 100% certified sourcing by July 2027.
+					Why is this important, and what does it mean for you and
+					your company?
 				</mj-text>
 				<mj-image
 					width="291px"
 					height="48px"
 					align="left"
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/download-the-pdf.png"
-					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/2025-03-31-sbti-presentation.pdf?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more-en.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/working-together-towards-100-certified-sourcing-by-2027.docx?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					alt=""
+					padding="0 0 10px 0"
+				/>
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more-nl.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/samen-naar-100-gecertificeerde-inkoop-in-2027.docx?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
 					alt=""
 					padding="0"
 				/>
@@ -156,15 +169,19 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
-				<mj-text mj-class="title-2">Press release SBTi</mj-text>
+				<mj-text mj-class="title-2"
+					>Best practices DFG companies</mj-text
+				>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/3.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/3.png"
 					href="https://dfg.nl/en/news/dutch-flower-group-first-trade-company-in-the-floriculture-sector-to-be-validated-by-sbti-for-climate-targets/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
 					alt=""
 				/>
 				<mj-text mj-class="">
-					Did you allready read the full press release on the DFG
-					website about the SBTi validation?
+					Every DFG company is doing its best to improve its
+					percentage. In order to learn from each other it is good to
+					share knowledge and best practices. In today's newsletter,
+					you’ll find some examples from Coloríginz and Holex.
 				</mj-text>
 				<mj-image
 					width="291px"
