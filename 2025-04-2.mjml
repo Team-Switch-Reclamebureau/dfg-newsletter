@@ -1,0 +1,341 @@
+<mjml>
+	<mj-head>
+		<mj-font
+			name="Urbana"
+			href="https://use.typekit.net/tnf8jkx.css"
+		></mj-font>
+		<mj-breakpoint width="500px" />
+		<mj-attributes>
+			<mj-section padding="20px" background-color="white" />
+			<mj-column padding="40px 20px 20px" />
+			<mj-text padding="0 0 20px" />
+			<mj-image padding="0 0 20px" />
+
+			<mj-all font-family="Arial" />
+			<mj-all font-size="14px" />
+			<mj-all line-height="1.4" />
+			<mj-all color="#5A5A5A" />
+
+			<mj-divider border-width="2px" border-color="rgb(91, 175, 48)" />
+
+			<mj-class name="text-white" color="white" />
+			<mj-class
+				name="title-2"
+				font-weight="500"
+				font-size="36px"
+				font-family="Urbana, Arial, sans-serif"
+				line-height="1"
+				color="rgb(91, 175, 48)"
+			/>
+			<mj-class
+				name="title"
+				font-weight="500"
+				font-size="36px"
+				font-family="Urbana, Arial, sans-serif"
+				line-height="1"
+			/>
+			<mj-class name="card" padding="0" />
+			<mj-class name="item" padding-top="0" padding-bottom="0" />
+			<mj-class name="full" padding="0" />
+		</mj-attributes>
+		<mj-style inline="inline">
+			a { color: inherit; text-decoration: undeline; } .purple > table {
+			background-color: #005DA4 !important;} .red > table {
+			background-color: #AD1E22 !important; %) } .yellow > table {
+			background-color: #00983A !important; } .green > table {
+			background-color: rgb(91, 175, 48) !important; }
+		</mj-style>
+	</mj-head>
+	<mj-body background-color="#EEEEEE">
+		<mj-section padding="0">
+			<mj-column width="600px" padding="0">
+				<mj-image
+					width="600px"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/hero.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding-bottom="0">
+			<mj-column width="560px">
+				<mj-text>
+					Dear colleague,<br />
+					<br />
+					Another year, another FSI-SSS result. Sourcing from
+					certified suppliers is the basis for our sustainability
+					strategy IMPACT2030 and this newsletter contains more
+					information on current results (2024), the way towards 100%,
+					and some good examples from DFG companies.<br /><br />
+					Please remember, it is no longer a voluntary ambition, but a
+					mandatory target for all companies.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column vertical-align="middle" width="280px" padding-bottom="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/intro.png"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="280px" padding-bottom="0">
+				<mj-text>
+					Colourful regards,<br />
+					<br />
+					<strong>Raimon Loman</strong><br />
+					Group Sustainability Manager<br />Dutch Flower Group
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" css-class="" padding="10px 20px">
+				<mj-text mj-class="title-2">77% certified sourcing!</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/1.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/fsi-sss-results-dfg-2024.pdf?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					alt=""
+				/>
+				<mj-text mj-class="">
+					DFG is founding father of FSI, and is therefore committed to
+					its target of sourcing certified product. In the attachment
+					you can find the results for 2024, including a detailed
+					analysis and forecast for 2025 and beyond.
+				</mj-text>
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/fsi-sss-results-dfg-2024.pdf?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					alt=""
+					padding="0 0 10px 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title-2">Presentation SBTi</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/2.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/2025-03-31-sbti-presentation.pdf?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					alt=""
+				/>
+				<mj-text mj-class="">
+					Herewith the general presetation regarding SBTi, including
+					the implications for our companies. The Powerpoint for the
+					Sustainability Ambassadors is available in Sharepoint. Let
+					Marjon know if you need further assistance!
+				</mj-text>
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/download-the-pdf.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/2025-03-31-sbti-presentation.pdf?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title-2">Press release SBTi</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04/3.png"
+					href="https://dfg.nl/en/news/dutch-flower-group-first-trade-company-in-the-floriculture-sector-to-be-validated-by-sbti-for-climate-targets/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					alt=""
+				/>
+				<mj-text mj-class="">
+					Did you allready read the full press release on the DFG
+					website about the SBTi validation?
+				</mj-text>
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-in-english.png"
+					href="https://dfg.nl/en/news/dutch-flower-group-first-trade-company-in-the-floriculture-sector-to-be-validated-by-sbti-for-climate-targets/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					alt=""
+					padding="0 0 10px 0"
+				/>
+				<mj-image
+					width="291px"
+					height="48px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-in-dutch.png"
+					href="https://dfg.nl/nl/nieuws/dutch-flower-group-als-eerste-handelsbedrijf-in-de-sierteeltsector-gevalideerd-door-sbti-voor-klimaatdoelstellingen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="40px 0 0 0">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading-events.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card" padding-top="20px">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/apr-15.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text>DFG Sustainability Day @ DS Smith</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				vertical-align="middle"
+				width="80px"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/may.png"
+					alt=""
+					width="60px"
+					height="60px"
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="480px" mj-class="item">
+				<mj-text>Sustainability Ambassador group discussion</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section> </mj-section>
+
+		<!-- Next Issue -->
+		<mj-section padding="20px 0 0 0">
+			<mj-column padding="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading-next.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card" padding-top="20px">
+			<mj-column
+				width="60px"
+				vertical-align="middle"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/arrow.png"
+					alt=""
+					width="40px"
+					height="40px"
+				/>
+			</mj-column>
+			<mj-column width="480px" vertical-align="middle" mj-class="item">
+				<mj-text>Results Sustainable Sourcing Scan DFG 2024</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="card">
+			<mj-column
+				width="60px"
+				vertical-align="middle"
+				padding-right="0"
+				mj-class="item"
+			>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/arrow.png"
+					alt=""
+					width="40px"
+					height="40px"
+				/>
+			</mj-column>
+			<mj-column width="480px" vertical-align="middle" mj-class="item">
+				<mj-text>Roadmap towards 100% Certified Sourcing</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section background-color="#ffffff"> </mj-section>
+
+		<!-- Footer -->
+		<mj-section
+			mj-class="full"
+			background-color="rgb(91, 175, 48)"
+			background-position="right"
+			background-size="600px"
+		>
+			<mj-column width="600px">
+				<mj-text
+					mj-class="text-white"
+					padding-left="20px"
+					padding-right="20px"
+				>
+					Read more about our sustainability strategy IMPACT2030 in
+					<!-- TODO: update the flipbook link to the one for this newsletter -->
+					<a
+						style="color: #ffffff"
+						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+						>our flipbook</a
+					>.<br /><br />
+					Do you need text or images in high resolution? Please
+					contact
+					<a style="color: #ffffff" href="mailto:marketing@dfg.nl"
+						>marketing@dfg.nl</a
+					>
+					<br />
+					<br />
+					<strong
+						>Do you have any questions or feedback about this
+						newsletter, please contact
+						<a
+							style="color: #ffffff"
+							href="mailto:raimon.loman@dfg.nl"
+							>raimon.loman@dfg.nl</a
+						></strong
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="full">
+			<mj-column width="360px" vertical-align="middle">
+				<mj-text>
+					Unsubscribe
+					<a style="color: rgb(91, 175, 48)" href="*|UNSUB|*">here</a>
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="middle">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/footer-logo-2.png"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
