@@ -187,8 +187,8 @@
 					width="291px"
 					height="48px"
 					align="left"
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-in-english.png"
-					href="https://dfg.nl/en/news/dutch-flower-group-first-trade-company-in-the-floriculture-sector-to-be-validated-by-sbti-for-climate-targets/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/best-practice-holex.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/best-practice-holex.docx?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
 					alt=""
 					padding="0 0 10px 0"
 				/>
@@ -196,8 +196,8 @@
 					width="291px"
 					height="48px"
 					align="left"
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-in-dutch.png"
-					href="https://dfg.nl/nl/nieuws/dutch-flower-group-als-eerste-handelsbedrijf-in-de-sierteeltsector-gevalideerd-door-sbti-voor-klimaatdoelstellingen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/best-practice-coloriginz.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/25/04-2/best-practice-coloriginz.docx?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_25_2&utm_content=flipbook"
 					alt=""
 					padding="0"
 				/>
@@ -221,14 +221,14 @@
 				mj-class="item"
 			>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/apr-15.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/may.png"
 					alt=""
 					width="60px"
 					height="60px"
 				/>
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text>DFG Sustainability Day @ DS Smith</mj-text>
+				<mj-text>Sustainability Ambassador group discussion</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -239,14 +239,14 @@
 				mj-class="item"
 			>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/may.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/sep.png"
 					alt=""
 					width="60px"
 					height="60px"
 				/>
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text>Sustainability Ambassador group discussion</mj-text>
+				<mj-text>Sustainability Ambassador visit to Verstegen</mj-text>
 			</mj-column>
 		</mj-section>
 
@@ -277,7 +277,7 @@
 				/>
 			</mj-column>
 			<mj-column width="480px" vertical-align="middle" mj-class="item">
-				<mj-text>Results Sustainable Sourcing Scan DFG 2024</mj-text>
+				<mj-text>Update Due Diligence</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -295,7 +295,7 @@
 				/>
 			</mj-column>
 			<mj-column width="480px" vertical-align="middle" mj-class="item">
-				<mj-text>Roadmap towards 100% Certified Sourcing</mj-text>
+				<mj-text>Update HR</mj-text>
 			</mj-column>
 		</mj-section>
 
