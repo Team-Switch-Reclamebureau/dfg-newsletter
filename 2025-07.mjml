@@ -226,14 +226,18 @@
 				mj-class="item"
 			>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/may.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/jun-30.png"
 					alt=""
 					width="60px"
 					height="60px"
 				/>
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text>Sustainability Ambassador group discussion</mj-text>
+				<mj-text
+					>Sustainability Ambassador meeting with information on the
+					Dutch Flower Foundation, the use of crop protection agents,
+					and the Dutrch Flower Awards.</mj-text
+				>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="card">
@@ -244,21 +248,24 @@
 				mj-class="item"
 			>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/sep.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/date/sep-30.png"
 					alt=""
 					width="60px"
 					height="60px"
 				/>
 			</mj-column>
 			<mj-column vertical-align="middle" width="480px" mj-class="item">
-				<mj-text>Sustainability Ambassador visit to Verstegen</mj-text>
+				<mj-text
+					>Sustainability Ambassador visit to Verstegen spices &
+					sauces</mj-text
+				>
 			</mj-column>
 		</mj-section>
 
 		<mj-section> </mj-section>
 
 		<!-- Next Issue -->
-		<mj-section padding="20px 0 0 0">
+		<!-- <mj-section padding="20px 0 0 0">
 			<mj-column padding="0">
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/heading-next.png"
@@ -304,7 +311,7 @@
 			</mj-column>
 		</mj-section>
 
-		<mj-section background-color="#ffffff"> </mj-section>
+		<mj-section background-color="#ffffff"> </mj-section> -->
 
 		<!-- Footer -->
 		<mj-section
