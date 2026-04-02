@@ -1,0 +1,555 @@
+<mjml>
+	<mj-head>
+		<mj-font
+			name="Urbana"
+			href="https://use.typekit.net/tnf8jkx.css"
+		></mj-font>
+		<mj-breakpoint width="600px" />
+		<mj-attributes>
+			<mj-section padding="20px" background-color="white" />
+			<mj-column padding="40px 20px 20px" />
+			<mj-text padding="0 0 20px" />
+			<mj-image padding="0 0 20px" />
+
+			<mj-all font-family="Arial" />
+			<mj-all font-size="14px" />
+			<mj-all line-height="1.4" />
+			<mj-all color="#555555" />
+
+			<mj-divider border-width="2px" border-color="rgb(91, 175, 48)" />
+
+			<mj-class
+				name="title"
+				font-weight="500"
+				font-size="36px"
+				font-family="Urbana, Arial, sans-serif"
+				line-height="1"
+			/>
+
+			<mj-class name="white" color="white" />
+			<mj-class name="green" color="rgb(91, 175, 48)" />
+			<mj-class name="dark-green" color="rgb(0, 157, 102)" />
+			<mj-class name="orange" color="rgb(230, 70, 16)" />
+			<mj-class name="blue" color="rgb(0, 158, 226)" />
+			<mj-class name="purple" color="rgb(79, 56, 140)" />
+
+			<mj-class name="full" padding="0" />
+		</mj-attributes>
+		<mj-style inline="inline">
+			a { color: inherit; text-decoration: undeline; } .purple > table {
+			background-color: #005DA4 !important;} .red > table {
+			background-color: #AD1E22 !important; %) } .yellow > table {
+			background-color: #00983A !important; } .green > table {
+			background-color: rgb(91, 175, 48) !important; }
+		</mj-style>
+	</mj-head>
+	<mj-body background-color="#EEEEEE">
+		<mj-section padding="0">
+			<mj-column width="600px" padding="0">
+				<mj-image
+					width="600px"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/hero.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding-bottom="0">
+			<mj-column width="560px">
+				<mj-text>
+					Beste collega’s,<br />
+					<br />
+					Na een lange pauze sinds de nieuwsbrief van juli vorig jaar
+					pakken we de draad weer op. Met het vertrek van Raimon en
+					mijn start per 1 oktober begint een nieuwe fase voor DFG
+					Sustainability, waarin we bouwen aan een passende
+					doorvertaling van onze IMPACT2030strategie.<br />
+					<br />
+					In de afgelopen maanden heb ik DFG en de sector beter leren
+					kennen: met veel vakmanschap, betrokken collega’s en
+					ondernemerschap. Tegelijk zie ik dat dit hand in hand gaat
+					met een aantal stevige uitdagingen. De recente bevindingen
+					van de NVWA over middelengebruik in de keten, de oplopende
+					spanningen in het Midden-Oosten en de beperkingen voor
+					doorvoer via de straat van Hormuz illustreren hoe kwetsbaar
+					de keten is. Dat vraagt dat we onze duurzaamheidsambities
+					blijven volgen, maar tegelijk wendbaar kunnen zijn, met
+					realisme over wat nú haalbaar is en wat prioriteit moet
+					krijgen.<br />
+					<br />
+					De komende periode brengen we intern meer focus en samenhang
+					aan. Met gerichte taskforces versnellen we vier thema’s
+					binnen IMPACT2030 (Carbon, Circular Packaging, Social Impact
+					& Crop Protection) en zorgen we dat DFG-bedrijven dit kunnen
+					doorvertalen naar hun dagelijkse praktijk. Een belangrijk
+					onderdeel hiervan is communicatie en het actief met elkaar
+					delen van ervaringen.<br />
+					<br />
+					Met deze eerste editie van onze vernieuwde
+					kwartaalnieuwsbrief brengen we weer ritme in hoe we elkaar
+					informeren en meenemen in de stappen die we samen zetten, in
+					een wereld die continu in beweging is.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column vertical-align="middle" width="280px" padding-bottom="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/linda.png"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column vertical-align="middle" width="280px" padding-bottom="0">
+				<mj-text>
+					<strong>Linda van Waveren </strong><br />
+					Group Sustainability Manager<br />
+					Dutch Flower Group
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" css-class="" padding="10px 20px">
+				<mj-text mj-class="title orange"
+					>DFG blijft stappen zetten richting 100% FSIgecertificeerde
+					inkoop</mj-text
+				>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/1.png"
+					alt=""
+				/>
+				<mj-text padding="0">
+					<em>Door Linda van Waveren en Jonny Young</em><br />
+					<br />
+					Dankzij de gezamenlijke inspanningen van inkoop,
+					sustainability-teams en management hebben we in 2025 opnieuw
+					een grote stap gezet richting onze IMPACT2030doelstellingen.
+					Als DFG sloten we het jaar af met 81% FSIgecertificeerde
+					bloemen en planten, een mooi groepsresultaat.<br />
+					<br />
+					Royal FloraHolland heeft eind maart haar strategie bevestigd
+					met extra ondersteuning voor kwekers en financiële prikkels
+					voor nietgecertificeerd aanbod. Deze lijn versnelt de
+					ketenbeweging en sluit direct aan op onze eigen aanpak.<br />
+					<br />
+					<strong>Onze focus vooruit:</strong><br />
+					• Verdere opschaling van gecertificeerde volumes binnen alle
+					bedrijven.<br />
+					• Top 20aanpak van Sustainability Ambassadors voor
+					noncompliant kwekers.<br />
+					• Versterken samenwerking met FSIversnellers Handel en
+					ketenpartners.<br />
+					• Blijvende integratie van FSIcompliance in dagelijkse
+					sourcing beslissingen.<br />
+					<br />
+					Daarnaast zien we kansen voor verdere opschaling binnen de
+					handelsbedrijven: FSI gaat binnenkort een bredere groep
+					handelshuizen individueel benaderen om aan te sluiten bij de
+					FSIVersnellersgroep. Dit ondersteunt het creëren van een
+					noodzakelijk level playing field, waardoor we als sector
+					meer gelijke stappen kunnen zetten in lijn met de
+					gezamenlijke FSIroadmap en onze relatie met kwekers verder
+					kunnen versterken.<br />
+					<br />
+					Voor ons blijft FSI een belangrijk instrument om richting te
+					geven aan onze keten en stap voor stap toe te bewegen naar
+					verantwoorde teelt.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title blue"
+					>Ketendialoog over sociale thema’s in de sector</mj-text
+				>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/2.png"
+					alt=""
+				/>
+				<mj-text padding="0">
+					<em>Door Linda van Waveren</em><br />
+					<br />
+					FSI, Rabobank, VGB en Dutch Flower Group organiseerden op 4
+					maart de Social Dialogue International Floriculture in
+					Hoofddorp. Ruim veertig deelnemers uit de internationale
+					sierteeltketen gingen met elkaar in gesprek over het
+					versterken van sociale verantwoordelijkheid in de keten.<br />
+					<br />
+					De bijeenkomst werd afgetrapt met een bijdrage van Leontine
+					Treur over arbeidsmarktdynamiek en een oproep van Vivian
+					Vaessen (FNV) over gezamenlijke verantwoordelijkheid.
+					Deelnemers waardeerden de dialoog als inspirerend en
+					constructief.<br />
+					<br />
+					De uitkomsten van de dialoog vormen input voor
+					vervolgstappen, waaronder de verdere voorbereiding richting
+					een nieuwe SER sectorovereenkomst voor internationaal
+					maatschappelijk verantwoord ondernemen.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title purple"
+					>Update SBTi-doelstellingen</mj-text
+				>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/3.png"
+					alt=""
+				/>
+				<mj-text padding="0">
+					<em>Door Marjon van Diepen</em><br />
+					<br />
+					DFG heeft zich gecommitteerd om de broeikasgasuitstoot in
+					2031 (t.o.v. 2021) fors te verlagen. We liggen op koers,
+					maar versnelling blijft nodig. Hieronder de belangrijkste
+					inzichten.<br />
+					<br />
+					<strong>Scope 1 & 2: Eigen operatie</strong><br />
+					Doel: -58% - realisatie t/m 2024: -63%.<br />
+					<br />
+					We liggen voor op schema. De uitstoot wordt gemonitord via
+					het impactdashboard, de update voor 2025 staat gepland in
+					april. Het grootste aandachtspunt blijft de lekkage van
+					koudemiddelen, met name bij AirFlo Kenya.<br />
+					<br />
+					<strong>Scope 3: Ingekochte goederen & transport</strong
+					><br />
+					Doel: -47% realisatie 2024: -15%.<br />
+					<br />
+					We stimuleren kwekers om hun footprint inzichtelijk te maken
+					via de FloriPEF-methodiek en zodoende zelf aan het stuur
+					zitten voor hun reductie. Internationaal zien we goede
+					voortgang, maar in Nederland blijft dit achter. Verdere
+					opschaling en druk vanuit de business zijn nodig om dit te
+					versnellen. Vanuit de werkgroep footprint ligt de focus nu
+					met name op onze retail bedrijven omdat hun klanten steeds
+					vaker vragen om footprint berekeningen. <br />
+					<br />
+					Qua transport ligt de grootste impact in het terugdringen
+					van luchtvracht en het vergroten van zeevracht. Hier liggen
+					concrete kansen om sneller stappen te zetten.<br />
+					<br />
+					Conclusie: we boeken vooruitgang, maar om onze doelen te
+					halen is extra focus en actie nodig in de hele keten.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title purple"
+					>Samen slimmer omgaan met energie
+				</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/3.png"
+					alt=""
+				/>
+				<mj-text padding="0">
+					<em>Door Marjon van Diepen</em><br />
+					<br />
+					Sinds 2022 maken alle Nederlandse DFG-bedrijven gebruik van
+					groene elektriciteit en sinds 2024 JZ Flowers in het VK ook.
+					Dit is een belangrijke stap in het verkleinen van onze
+					footprint. Echter, er is meer te doen. Om beter inzicht te
+					krijgen in het energieverbruik per bedrijf, hebben Michiel
+					van Eerden en Harry Brockhoff de afgelopen maand gewerkt aan
+					een eerlijke verdeelsleutel. In drie groepen –
+					grootverbruikers, kleinverbruikers en plantenbedrijven –
+					kregen de betrokken partijen een presentatie over de
+					ingekochte energie en het totale aantal kWh voor DFG.<br />
+					<br />
+					De boodschap is duidelijk: kijk kritisch naar het eigen
+					energieverbruik en kom met een actieplan om elektriciteit en
+					gas te verminderen. Dat is niet alleen goed voor het milieu,
+					maar ook direct zichtbaar in de kosten.<br />
+					<br />
+					Zij gaven daarbij een aantal praktische aandachtspunten mee.
+					Denk bijvoorbeeld aan de timers van deuren,
+					temperatuurinstelling en afspraken over temperaturen waarop
+					producten worden aangeleverd en vervoerd. Met kleine
+					verbeteringen kunnen we samen al een groot verschil
+					maken!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title dark-green"
+					>SKAL-certificering: een stap vooruit in duurzaam en
+					verantwoord ondernemen
+				</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/3.png"
+					alt=""
+				/>
+				<mj-text padding="0">
+					<em>Door Marco van Kesteren</em><br />
+					<br />
+					Sinds kort beschikt de The Floral Connection over een
+					SKAL-certificering voor biologische producten: bereiding,
+					distributie/in de handel brengen en opslag van biologische
+					bloemen en planten. Deze certificering bevestigt dat onze
+					processen voldoen aan strikte Europese regels voor
+					biologische productie en verwerking. Daarmee borgen we
+					transparantie en betrouwbaarheid in onze keten, van inkoop
+					tot levering. En bouwen we ons duurzame productaanbod uit
+					voor de Retail. <br />
+					<br />
+					Deze stap sluit direct aan bij Impact2030, met name binnen
+					de pijlers klimaat, milieu en verantwoord ondernemen.
+					Biologische producten worden geproduceerd met aandacht voor
+					bodemgezondheid, biodiversiteit en het verminderen van
+					chemische bestrijdingsmiddelen. Door gecertificeerde
+					biologische producten aan te bieden, dragen we bij aan een
+					duurzamere keten en geven we de consument de mogelijkheid
+					een bewustere keuze te maken. <br />
+					<br />
+					<strong>Resultaat</strong><br />
+					• Officiële SKAL-certificering voor biologische producten<br />
+					• Transparante en gecontroleerde keten<br />
+					• Uitbreiding van een duurzamer productaanbod bloemen en
+					planten aan onze Retail klanten<br />
+					• Frontrunner op gebied bio bloemen en planten voor
+					Retail<br />
+					<br />
+					<strong>Les voor andere bedrijven</strong><br />
+					Het behalen van een certificering vraagt om duidelijke
+					processen, interne bewustwording en nauwe samenwerking met
+					leveranciers. Door dit traject stap voor stap te organiseren
+					– van documentatie tot audits – blijkt certificering goed
+					haalbaar én schaalbaar.<br />
+					<br />
+					<strong>Waarom relevant voor andere DFG-bedrijven?</strong
+					><br />
+					Het traject laat zien dat biologische certificering niet
+					alleen bijdraagt aan duurzaamheid. Ondanks het huidige
+					beperkte aanbod dit voor de toekomst nieuwe marktkansen
+					creëert. Onze samenwerking met Coloriginz op verkenning van
+					het aanbod op de markt gaf veel inzichten en mogelijkheden.
+					Door ervaringen en “Best Practices” te delen, kunnen andere
+					zusjes binnen de groep dit proces versnellen en gezamenlijk
+					de impact vergroten.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title green">AIPH nominaties </mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/3.png"
+					alt=""
+				/>
+				<mj-text padding="0">
+					<em>Door Iris de Waal</em><br />
+					<br />
+					Eind januari stond een deel van het team van Herburg Roses
+					en Nini op het podium in Duitsland tijdens de AIPH
+					awardshow. Hoewel we de awards dit keer niet mee naar huis
+					namen, zijn we ontzettend trots op onze twee nominaties in
+					de categorieën Sustainability en Cut Flowers and Bulbs. Het
+					team werd geprezen om de inzet op het gebied van innovatie
+					in zeevracht, de ambitie richting chemievrij telen en onze
+					sociale projecten: de Herburg Roses Special Needs School en
+					de Nini daycare.<br />
+					<br />
+					Op dezelfde dag publiceerden wij onze nieuwe website,
+					waarbij wij ons volledig richten op het vertellen van het
+					eerlijke verhaal. Ook geven we hierop meer
+					achtergrondinformatie over duurzaamheidsonderwerpen, zoals
+					een heldere uitleg over de Fairtrade Premium en de
+					commissies van collega’s die zich specialiseren in
+					belangrijke taken zoals Fire Safety en Gender. Binnenkort
+					bieden we bovendien de mogelijkheid om bij jullie op kantoor
+					langs te komen om meer te vertellen over onze
+					duurzaamheidsinitiatieven en jullie vragen eerlijk te
+					beantwoorden.<br />
+					<br />
+					Check onze nieuwe website via: https://herburgroses.com/
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title dark-green"
+					>Coloríginz organiseert biodag
+				</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/3.png"
+					alt=""
+				/>
+				<mj-text padding="0">
+					<em>Door Olga Keijser</em><br />
+					<br />
+					Afgelopen maand organiseerden we de Coloríginz Biodag: een
+					inspirerende bijeenkomst waarin biologische kwekers en
+					marktpartijen samenkwamen om kennis, inzichten en ambities
+					te delen. Wat vooral opviel, was de oprechte interesse en
+					betrokkenheid van alle aanwezigen. De energie in de ruimte
+					liet zien dat biologisch niet langer een niche-onderwerp is,
+					maar een gezamenlijke beweging waar iedereen actief over wil
+					meedenken. <br />
+					<br />
+					Tijdens de sessies kregen we waardevolle inzichten vanuit
+					zowel het groothandels- en bloemistensegment als het
+					supermarktsegment. Er werd open gesproken over kansen,
+					uitdagingen en wat er concreet nodig is om biologische
+					bloemen structureel verder te laten groeien.<br />
+					<br />
+					De komende periode gaan wij:<br />
+					• De biologische producties per kweker inventariseren<br />
+					• Werken aan een overzichtelijke productkalender op
+					weekbasis<br />
+					• In gesprek met een selecte groep geïnteresseerde klanten
+					om vraag en aanbod verder op elkaar af te stemmen<br />
+					<br />
+					Het doel is om als centraal punt de verbinding te blijven
+					maken tussen kwekers en markt, zodat we gezamenlijk kunnen
+					werken aan een breder en sterker biologisch assortiment.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-text mj-class="title orange"
+					>Wild harvest op weg naar certificering
+				</mj-text>
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/3.png"
+					alt=""
+				/>
+				<mj-text padding="0">
+					<em>Door Olga Keijser en Jonny Young</em><br />
+					<br />
+					In januari reisde Jonny (Human Rights Lead bij DFG) samen
+					met Olga Keijser (Sustainability Manager bij Coloríginz)
+					naar Spanje om een van onze belangrijkste exporteurs in de
+					wild harvest pistache-toeleveringsketen te bezoeken. Het
+					bezoek bood een waardevolle kans om direct in gesprek te
+					gaan met werknemers in de hele keten, van plukkers en
+					landeigenaren tot exporteurs, om een beter inzicht te
+					krijgen in de realiteit van wild harvesting en om de
+					voortgang en impact van het FSI Wild Harvest Project te
+					beoordelen.<br />
+					<br />
+					Het was duidelijk zichtbaar welke positieve impact Olga en
+					het projectteam hebben gehad bij het opbouwen van vertrouwen
+					en het creëren van sterke, samenwerkingsgerichte relaties
+					met stakeholders in de hele keten. Hoewel er nog steeds
+					uitdagingen en risico’s zijn, hebben we er vertrouwen in dat
+					de voorgestelde standaard zal leiden tot betekenisvolle
+					verbeteringen.<br />
+					<br />
+					Wat betreft de volgende stappen: het Wild Harvest Protocol
+					zal worden opgenomen in de FSI Basket of Standards, onder
+					het beheer van FairWild. In 2026 streeft FairWild ernaar het
+					protocol te integreren en af te stemmen op het bestaande
+					certificeringskader en de aanpak in Spanje en Zuid-Afrika,
+					om het in de komende jaren verder uit te rollen naar andere
+					landen zoals Portugal, de VS en Mexico. Dit zal bijdragen
+					aan een robuuste borging en langdurige duurzaamheid binnen
+					de wild harvest toeleveringsketen.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section> </mj-section>
+
+		<!-- Footer -->
+		<mj-section
+			mj-class="full"
+			background-color="rgb(91, 175, 48)"
+			background-position="right"
+			background-size="600px"
+		>
+			<mj-column width="600px">
+				<mj-text
+					mj-class="white"
+					padding-left="20px"
+					padding-right="20px"
+				>
+					Lees meer over onze duurzaamheidsstrategie IMPACT2030 in
+					<!-- TODO: update the flipbook link to the one for this newsletter -->
+					<a
+						style="color: #ffffff"
+						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=july_25&utm_content=flipbook"
+						>ons flipbook</a
+					>.<br />
+					<br />
+					<strong
+						>Heb je vragen of feedback over deze nieuwsbrief, neem
+						dan contact op met
+						<a
+							style="color: #ffffff"
+							href="mailto:linda.van.waveren@dfg.nl"
+							>linda.van.waveren@dfg.nl</a
+						></strong
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="full">
+			<mj-column width="360px" vertical-align="middle">
+				<mj-text>
+					Unsubscribe
+					<a style="color: rgb(91, 175, 48)" href="*|UNSUB|*">here</a>
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="middle">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/footer-logo-2.png"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
