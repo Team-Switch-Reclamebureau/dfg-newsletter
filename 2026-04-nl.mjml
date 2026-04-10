@@ -96,14 +96,14 @@
 			</mj-column>
 		</mj-section>
 		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column vertical-align="middle" width="320px" padding-bottom="0">
+			<mj-column width="280px" padding-bottom="0" padding-top="0">
 				<mj-text>
 					<strong>Linda van Waveren </strong><br />
 					Group Sustainability Manager<br />
 					Dutch Flower Group
 				</mj-text>
 			</mj-column>
-			<mj-column vertical-align="middle" width="240px" padding-bottom="0">
+			<mj-column width="280px" padding-bottom="0" padding-top="0">
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/linda.png"
 					alt=""
@@ -465,15 +465,13 @@
 						>ons flipbook</a
 					>.<br />
 					<br />
-					<strong
-						>Heb je vragen of feedback over deze nieuwsbrief, neem
-						dan contact op met
-						<a
-							style="color: #ffffff"
-							href="mailto:sustainability@dfg.nl "
-							>sustainability@dfg.nl
-						</a></strong
-					>
+					Heb je vragen of feedback over deze nieuwsbrief, neem dan
+					contact op met
+					<a
+						style="color: #ffffff"
+						href="mailto:sustainability@dfg.nl "
+						>sustainability@dfg.nl
+					</a>
 				</mj-text>
 			</mj-column>
 		</mj-section>
