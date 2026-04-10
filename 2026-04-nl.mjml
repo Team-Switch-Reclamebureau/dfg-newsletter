@@ -96,14 +96,14 @@
 			</mj-column>
 		</mj-section>
 		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="280px" padding-bottom="0" padding-top="0">
+			<mj-column width="420px" padding-bottom="0" padding-top="0">
 				<mj-text>
 					<strong>Linda van Waveren </strong><br />
 					Group Sustainability Manager<br />
 					Dutch Flower Group
 				</mj-text>
 			</mj-column>
-			<mj-column width="280px" padding-bottom="0" padding-top="0">
+			<mj-column width="140px" padding-bottom="0" padding-top="0">
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/linda.png"
 					alt=""
@@ -190,49 +190,6 @@
 					een nieuwe SER sectorovereenkomst voor internationaal
 					maatschappelijk verantwoord ondernemen.
 				</mj-text>
-			</mj-column>
-		</mj-section>
-
-		<mj-section padding="0">
-			<mj-column padding="20px" width="100%">
-				<mj-divider />
-			</mj-column>
-		</mj-section>
-
-		<mj-section padding="0 20px">
-			<mj-column width="100%" padding="10px 20px">
-				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/3.png"
-					alt=""
-					mj-class="logo"
-				/>
-				<mj-text mj-class="title green"
-					>Update SBTi-doelstellingen</mj-text
-				>
-				<mj-text padding="0">
-					<em>Door Marjon van Diepen</em><br />
-					<br />
-					DFG heeft zich gecommitteerd om de broeikasgasuitstoot in
-					2031 (t.o.v. 2021) fors te verlagen. We liggen op koers,
-					maar versnelling blijft nodig. Hieronder de belangrijkste
-					inzichten.<br />
-					<br />
-					<strong>Scope 1 & 2: Eigen operatie</strong><br />
-					Doel: -58% realisatie t/m 2024: -63%.<br />
-					<br />
-					We liggen voor op schema. De uitstoot wordt gemonitord via
-					het impactdashboard, de update voor 2025 staat gepland in
-					april. Het grootste aandachtspunt blijft de lekkage van
-					koudemiddelen, met name bij AirFlo Kenya.
-				</mj-text>
-				<mj-image
-					width="291px"
-					align="left"
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/lees-verder.png"
-					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/3-NL.pdf"
-					alt=""
-					padding="20px 0 0 0"
-				/>
 			</mj-column>
 		</mj-section>
 
