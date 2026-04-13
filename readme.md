@@ -6,3 +6,4 @@
 - [april 2025 (2)](https://team-switch-reclamebureau.github.io/dfg-newsletter/2025-04-2.html)
 - [juli 2025](https://team-switch-reclamebureau.github.io/dfg-newsletter/2025-07.html)
 - [april 2026 NL](https://team-switch-reclamebureau.github.io/dfg-newsletter/2026-04-nl.html)
+- [april 2026 EN](https://team-switch-reclamebureau.github.io/dfg-newsletter/2026-04-en.html)
