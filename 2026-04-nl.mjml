@@ -394,17 +394,13 @@
 		<mj-section> </mj-section>
 
 		<!-- Footer -->
-		<mj-section
-			mj-class="full"
-			background-color="rgb(91, 175, 48)"
-			background-position="right"
-			background-size="600px"
-		>
-			<mj-column width="600px">
+		<mj-section mj-class="full" background-color="rgb(91, 175, 48)">
+			<mj-column width="600px" padding-bottom="0px">
 				<mj-text
 					mj-class="white"
 					padding-left="20px"
 					padding-right="20px"
+					padding-bottom="0"
 				>
 					Lees meer over onze duurzaamheidsstrategie IMPACT2030 in
 					<!-- TODO: update the flipbook link to the one for this newsletter -->
@@ -412,29 +408,33 @@
 						style="color: #ffffff"
 						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_26&utm_content=flipbook"
 						>ons flipbook</a
-					>.<br />
-					<br />
+					>.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			mj-class="full"
+			background-color="rgb(91, 175, 48)"
+			padding-top="0"
+		>
+			<mj-column width="380px">
+				<mj-text mj-class="white" padding="0">
 					Heb je vragen of feedback over deze nieuwsbrief, of wil je
 					je aanmelden? Neem dan contact op via
 					<a
 						style="color: #ffffff"
 						href="mailto:sustainability@dfg.nl "
-						>sustainability@dfg.nl
-					</a>
-				</mj-text>
-			</mj-column>
-		</mj-section>
-		<mj-section mj-class="full">
-			<mj-column width="360px" vertical-align="middle">
-				<mj-text>
+						>sustainability@dfg.nl </a
+					><br />
+					<br />
 					Wil je je afmelden voor deze nieuwsbrief?<br />
 					Dat kan
-					<a style="color: rgb(91, 175, 48)" href="*|UNSUB|*">hier</a>
+					<a style="color: #ffffff" href="*|UNSUB|*">hier</a>
 				</mj-text>
 			</mj-column>
-			<mj-column width="180px" vertical-align="middle">
+			<mj-column width="180px" vertical-align="bottom">
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/src/footer-logo-2.png"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/footer-white.png"
 					alt=""
 				/>
 			</mj-column>

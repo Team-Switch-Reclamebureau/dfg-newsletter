@@ -1,0 +1,443 @@
+<mjml>
+	<mj-head>
+		<mj-font
+			name="Urbana"
+			href="https://use.typekit.net/tnf8jkx.css"
+		></mj-font>
+		<mj-breakpoint width="600px" />
+		<mj-attributes>
+			<mj-section padding="20px" background-color="white" />
+			<mj-column padding="40px 20px 20px" />
+			<mj-text padding="0 0 20px" />
+			<mj-image padding="0 0 20px" />
+
+			<mj-all font-family="Arial" />
+			<mj-all font-size="14px" />
+			<mj-all line-height="1.4" />
+			<mj-all color="#555555" />
+
+			<mj-divider border-width="2px" border-color="rgb(91, 175, 48)" />
+
+			<mj-class
+				name="title"
+				font-weight="500"
+				font-size="24px"
+				font-family="Urbana, Arial, sans-serif"
+				line-height="1"
+			/>
+
+			<mj-class name="white" color="white" />
+			<mj-class name="green" color="rgb(91, 175, 48)" />
+			<mj-class name="dark-green" color="rgb(0, 157, 102)" />
+			<mj-class name="orange" color="rgb(230, 70, 16)" />
+			<mj-class name="blue" color="rgb(0, 158, 226)" />
+			<mj-class name="purple" color="rgb(79, 56, 140)" />
+
+			<mj-class name="logo" width="120px" align="left" />
+
+			<mj-class name="full" padding="0" />
+		</mj-attributes>
+		<mj-style inline="inline">
+			a { color: inherit; text-decoration: undeline; } .purple > table {
+			background-color: #005DA4 !important;} .red > table {
+			background-color: #AD1E22 !important; %) } .yellow > table {
+			background-color: #00983A !important; } .green > table {
+			background-color: rgb(91, 175, 48) !important; }
+		</mj-style>
+	</mj-head>
+	<mj-body background-color="#EEEEEE">
+		<mj-section padding="0">
+			<mj-column width="600px" padding="0">
+				<mj-image
+					width="600px"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/hero.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column width="560px">
+				<mj-text>
+					Dear colleagues,<br />
+					<br />
+					After a long pause since the July newsletter last year, we
+					are picking things up again. With Raimon’s departure and my
+					start on 1 October, a new phase begins for DFG
+					Sustainability, in which we are building a meaningful
+					translation of our IMPACT2030 strategy into practice.<br />
+					<br />
+					Over the past months, I have had the opportunity to get to
+					know DFG and the sector better, characterised by strong
+					craftsmanship, engaged colleagues and entrepreneurship. At
+					the same time, I see that this goes hand in hand with a
+					number of significant challenges. The recent findings by the
+					NVWA regarding the use of crop protection products in the
+					chain, the rising tensions in the Middle East and the
+					limitations on transit via the Strait of Hormuz illustrate
+					how vulnerable the supply chain is. This requires us to stay
+					committed to our sustainability ambitions, while also
+					remaining agile and realistic about what is achievable now
+					and what should be prioritised.<br />
+					<br />
+					In the coming period, we will bring more focus and alignment
+					internally. Through dedicated taskforces, we are
+					accelerating four key themes within IMPACT2030 (Carbon,
+					Circular Packaging, Social Impact & Crop Protection), while
+					ensuring that DFG companies can translate these into their
+					day-to-day operations. Communication and actively sharing
+					experiences with one another will be an essential part of
+					this.<br />
+					<br />
+					With this first edition of our renewed quarterly newsletter,
+					we are reintroducing a regular rhythm in how we inform and
+					engage with each other on the steps we are taking together,
+					in a world that is constantly evolving.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="420px" padding-bottom="0" padding-top="0">
+				<mj-text>
+					<strong>Linda van Waveren </strong><br />
+					Group Sustainability Manager<br />
+					Dutch Flower Group
+				</mj-text>
+			</mj-column>
+			<mj-column width="140px" padding-bottom="0" padding-top="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/linda.png"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" css-class="" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/1.png"
+					alt=""
+					mj-class="logo"
+				/>
+				<mj-text mj-class="title green"
+					>DFG continues to move towards 100% FSI-certified sourcing
+				</mj-text>
+				<mj-text padding="0">
+					<em>By Linda van Waveren and Jonny Young</em><br />
+					<br />
+					Thanks to the joint efforts of procurement, sustainability
+					teams and management, we made another significant step in
+					2025 towards our IMPACT2030 targets. As DFG, we closed the
+					year with 81% FSI-certified flowers and plants, a strong
+					group result.<br />
+					<br />
+					At the end of March, Royal FloraHolland reaffirmed its
+					strategy, including additional support for growers and
+					financial incentives for non-certified supply. This approach
+					accelerates movement across the chain and aligns directly
+					with our own strategy.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/1-EN.pdf"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/2.png"
+					alt=""
+					mj-class="logo"
+				/>
+				<mj-text mj-class="title green"
+					>Supply chain dialogue on social topics in the
+					sector</mj-text
+				>
+				<mj-text padding="0">
+					<em>By Linda van Waveren</em><br />
+					<br />
+					On 4 March, FSI, Rabobank, VGB and Dutch Flower Group
+					organised the Social Dialogue International Floriculture in
+					Hoofddorp. Over forty participants from the international
+					floriculture supply chain came together to discuss
+					strengthening social responsibility in the chain.<br />
+					<br />
+					The session opened with a contribution from Leontine Treur
+					on labour market dynamics and a call from Vivian Vaessen
+					(FNV) for shared responsibility. Participants described the
+					dialogue as inspiring and constructive.<br />
+					<br />
+					The outcomes of the dialogue will serve as input for next
+					steps, including further preparations towards a new SER
+					sector agreement on international responsible business
+					conduct.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/4.png"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>Working smarter with energy
+				</mj-text>
+				<mj-text padding="0">
+					<em>By Marjon van Diepen</em><br />
+					<br />
+					Since 2022, all Dutch DFG companies have been using green
+					electricity, and since 2024 JZ Flowers in the UK has joined
+					as well. This is an important step in reducing our
+					footprint. However, more can be done.<br />
+					<br />
+					To gain better insight into energy consumption per company,
+					Michiel van Eerden and Harry Brockhoff have worked over the
+					past month on a fair allocation model. In three groups –
+					large consumers, small consumers and plant companies –
+					stakeholders were presented with insights into purchased
+					energy and total kWh usage across DFG.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/4-EN.pdf"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/5.png"
+					alt=""
+					mj-class="logo"
+				/>
+				<mj-text mj-class="title green"
+					>SKAL certification: a step forward in sustainable and
+					responsible business
+				</mj-text>
+				<mj-text padding="0">
+					<em>By Marco van Kesteren</em><br />
+					<br />
+					The Floral Connection has recently obtained SKAL
+					certification for organic products: preparation,
+					distribution/placing on the market, and storage of organic
+					flowers and plants. This certification confirms that our
+					processes comply with strict European regulations for
+					organic production and processing. It ensures transparency
+					and reliability throughout our supply chain, from
+					procurement to delivery, and supports the expansion of our
+					sustainable product offering for retail.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/5-EN.pdf"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/6.png"
+					alt=""
+				/>
+				<mj-text mj-class="title green">AIPH nominations</mj-text>
+				<mj-text padding="0">
+					<em>By Iris de Waal</em><br />
+					<br />
+					At the end of January, part of the Herburg Roses and Nini
+					team took the stage in Germany during the AIPH awards
+					ceremony. Although we did not take home the awards this
+					time, we are extremely proud of our two nominations in the
+					categories Sustainability and Cut Flowers and Bulbs.<br />
+					<br />
+					The team was recognised for its efforts in innovation in sea
+					freight, the ambition towards chemical-free cultivation, and
+					our social projects: the Herburg Roses Special Needs School
+					and the Nini daycare.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/6-EN.pdf"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/7.png"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>Coloríginz organises Organic Day
+				</mj-text>
+				<mj-text padding="0">
+					<em>By Olga Keijser</em><br />
+					<br />
+					Last month, we organised the Coloríginz Organic Day: an
+					inspiring event where organic growers and market parties
+					came together to share knowledge, insights and ambitions.
+					What stood out most was the genuine interest and engagement
+					of all participants. The energy in the room showed that
+					organic is no longer a niche topic, but a shared movement
+					that everyone actively wants to contribute to.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/7-EN.pdf"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/8.png"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>Wild Harvest on the path to certification
+				</mj-text>
+				<mj-text padding="0">
+					<em>By Olga Keijser and Jonny Young</em><br />
+					<br />
+					In January, Jonny Young (Human Rights Lead at DFG), together
+					with Olga Keijser (Sustainability Manager at Coloríginz),
+					travelled to Spain to visit one of our key exporters in the
+					Wild Harvest pistachio supply chain.<br />
+					<br />
+					The visit provided a valuable opportunity to engage directly
+					with workers across the chain, from pickers and landowners
+					to exporters, to gain better insight into the realities of
+					wild harvesting and to assess the progress and impact of the
+					FSI Wild Harvest Project.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/04/8-EN.pdf"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section> </mj-section>
+
+		<!-- Footer -->
+		<mj-section mj-class="full" background-color="rgb(91, 175, 48)">
+			<mj-column width="600px" padding-bottom="0px">
+				<mj-text
+					mj-class="white"
+					padding-left="20px"
+					padding-right="20px"
+					padding-bottom="0"
+				>
+					Read more about our sustainability strategy IMPACT2030 in
+					<!-- TODO: update the flipbook link to the one for this newsletter -->
+					<a
+						style="color: #ffffff"
+						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=april_26&utm_content=flipbook"
+						>our flipbook</a
+					>.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			mj-class="full"
+			background-color="rgb(91, 175, 48)"
+			padding-top="0"
+		>
+			<mj-column width="380px">
+				<mj-text mj-class="white" padding="0">
+					If you have any questions or feedback about this newsletter,
+					or would like to subscribe, please contact us at
+					<a
+						style="color: #ffffff"
+						href="mailto:sustainability@dfg.nl "
+						>sustainability@dfg.nl </a
+					><br />
+					<br />
+					Would you like to unsubscribe from this newsletter?<br />
+					You can do so
+					<a style="color: #ffffff" href="*|UNSUB|*">here</a>
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/footer-white.png"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
