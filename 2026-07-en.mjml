@@ -1,0 +1,388 @@
+<mjml>
+	<mj-head>
+		<mj-font
+			name="Urbana"
+			href="https://use.typekit.net/tnf8jkx.css"
+		></mj-font>
+		<mj-breakpoint width="600px" />
+		<mj-attributes>
+			<mj-section padding="20px" background-color="white" />
+			<mj-column padding="40px 20px 20px" />
+			<mj-text padding="0 0 20px" />
+			<mj-image padding="0 0 20px" />
+
+			<mj-all font-family="Arial" />
+			<mj-all font-size="14px" />
+			<mj-all line-height="1.4" />
+			<mj-all color="#555555" />
+
+			<mj-divider border-width="2px" border-color="rgb(91, 175, 48)" />
+
+			<mj-class
+				name="title"
+				font-weight="500"
+				font-size="24px"
+				font-family="Urbana, Arial, sans-serif"
+				line-height="1"
+			/>
+
+			<mj-class name="white" color="white" />
+			<mj-class name="green" color="rgb(91, 175, 48)" />
+			<mj-class name="dark-green" color="rgb(0, 157, 102)" />
+			<mj-class name="orange" color="rgb(230, 70, 16)" />
+			<mj-class name="blue" color="rgb(0, 158, 226)" />
+			<mj-class name="purple" color="rgb(79, 56, 140)" />
+
+			<mj-class name="logo" width="120px" align="left" />
+
+			<mj-class name="full" padding="0" />
+		</mj-attributes>
+		<mj-style inline="inline">
+			a { color: inherit; text-decoration: undeline; } .purple > table {
+			background-color: #005DA4 !important;} .red > table {
+			background-color: #AD1E22 !important; %) } .yellow > table {
+			background-color: #00983A !important; } .green > table {
+			background-color: rgb(91, 175, 48) !important; }
+		</mj-style>
+	</mj-head>
+	<mj-body background-color="#EEEEEE">
+		<mj-section padding="0">
+			<mj-column width="600px" padding="0">
+				<mj-image
+					width="600px"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/hero-en.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column width="560px">
+				<mj-text>
+					Dear colleagues,<br />
+					<br />With the summer holidays just around the corner, we
+					would like to update you on the latest developments through
+					this new sustainability newsletter.<br />
+					<br />We are operating in a period of significant change.
+					Rising costs continue to put pressure on sustainable
+					choices. Consumers still say that sustainability is
+					important to them, but their willingness to pay for it is
+					declining. Whereas a few years ago this was around 60–70%,
+					it is now closer to 50% or even lower.<br />
+					<br />Sustainability, however, is not moving into the
+					background. On the contrary, it is increasingly becoming a
+					fundamental requirement for the way we operate, driven by
+					sustainability legislation and growing customer demand. New
+					EU legislation is on the horizon: PPWR (Packaging and
+					Packaging Waste Regulation), EmpCo (green claims) and the
+					Forced Labour Regulation (with more to come). Transparency
+					requirements are also continuing to increase, particularly
+					through CSRD and footprinting. In addition, we are facing
+					new costs, for example through transport and packaging
+					levies, while customers are asking more targeted questions
+					and increasingly expect evidence to support our claims, as
+					demonstrated recently by Lidl’s questions about our human
+					rights approach. In short, sustainability directly
+					influences how we manage risks, create value and improve
+					efficiency.<br />
+					<br />Through IMPACT2030, we are helping to build a
+					future-proof floriculture sector. We are embedding
+					sustainability even further into the core of our business,
+					not as an additional activity, but as an integral part of
+					the way we work. The taskforces are now up and running,
+					helping us to create focus and accelerate progress across
+					the themes of carbon, circular packaging & zero waste,
+					social impact and crop protection. We look forward to
+					sharing more after the summer.<br />
+					<br />Have a great summer!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="420px" padding-bottom="0" padding-top="0">
+				<mj-text>
+					<strong>Linda van Waveren </strong><br />
+					Group Sustainability Manager<br />
+					Dutch Flower Group
+				</mj-text>
+			</mj-column>
+			<mj-column width="140px" padding-bottom="0" padding-top="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/linda.png"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" css-class="" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/2.png"
+					href="https://dfg.nl/en/csr-newsletter/human-rights-due-diligence-meeting-evolving-customer-expectations/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>Human Rights Due Diligence: Meeting Evolving Customer
+					Expectations
+				</mj-text>
+				<mj-text padding="0">
+					<em>By Jonny Young and José van der Klauw</em><br />
+					<br />
+					Major retailers are increasingly looking beyond policies and
+					commitments and want to see clear evidence that companies
+					have effective processes in place to identify and manage
+					sustainability risks. Earlier this month, following a
+					request from Lidl's International CR team, José van der
+					Klauw (Van Dijk Flora – Manager Quality & Sustainability)
+					and Jonny Young (DFG – Group Lead Social) met with Lidl to
+					discuss how Van Dijk Flora identifies, assesses and manages
+					human rights risks across its supply chains.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://dfg.nl/en/csr-newsletter/human-rights-due-diligence-meeting-evolving-customer-expectations/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/3-en.png"
+					href="https://dfg.nl/en/csr-newsletter/even-more-challenging-puzzles-for-our-transport-colleagues/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>Even more challenging puzzles for our transport
+					colleagues</mj-text
+				>
+				<mj-text padding="0">
+					Cleaner transport options such as biofuel (HVO) and electric
+					transport are becoming increasingly attractive in the years
+					ahead. They deliver significantly lower CO₂ emissions and
+					align more closely with both customer sustainability
+					objectives and our own SBTi targets.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://dfg.nl/en/csr-newsletter/even-more-challenging-puzzles-for-our-transport-colleagues/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/4.png"
+					href="https://dfg.nl/en/csr-newsletter/from-strategy-to-action-csr-workshops-bringing-impact2030-to-life/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>From Strategy to Action: CSR workshops bringing IMPACT2030
+					to life
+				</mj-text>
+				<mj-text padding="0">
+					<em>By Dane Wadsworth and Rico Ratsma</em><br />
+					<br />
+					Within the UK & IE Flora Group, CSR workshops were rolled
+					out in Q2 2026 to make IMPACT2030 tangible for all teams.
+					The key outcome: employees not only understand their role
+					within the strategy, but are now translating this into
+					measurable actions and KPIs.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://dfg.nl/en/csr-newsletter/from-strategy-to-action-csr-workshops-bringing-impact2030-to-life/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/5.png"
+					href="https://dfg.nl/en/csr-newsletter/be-careful-with-sustainability-claims/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>Be careful with sustainability claims
+				</mj-text>
+				<mj-text padding="0">
+					<em>By Linda van Waveren</em><br />
+					<br />
+					From September 2026, the European EmpCo Directive will come
+					into force. This legislation introduces stricter
+					requirements for sustainability claims and is intended to
+					prevent misleading practices (greenwashing). Several
+					customers are already raising questions about EmpCo.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://dfg.nl/en/csr-newsletter/be-careful-with-sustainability-claims/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/6-en.png"
+					href="https://dfg.nl/en/csr-newsletter/barendsen-consciously-chooses-the-green-red-naomi/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>Barendsen consciously chooses the green Red Naomi
+				</mj-text>
+				<mj-text padding="0">
+					<em>By Marck Limmen</em><br />
+					<br />
+					By taking customers to growers and allowing them to see
+					first-hand the sustainability measures being implemented,
+					Barendsen helps to challenge negative perceptions and build
+					support for further sustainability improvements across the
+					sector.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://dfg.nl/en/csr-newsletter/barendsen-consciously-chooses-the-green-red-naomi/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/7.png"
+					href="https://dfg.nl/en/csr-newsletter/ppwr-is-coming-make-sure-your-packaging-is-in-order/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>PPWR is coming: make sure your packaging is in order
+				</mj-text>
+				<mj-text padding="0">
+					<em>By Linda van Waveren</em><br />
+					<br />
+					The PPWR (Packaging and Packaging Waste Regulation) will
+					require particular attention in the coming period, as also
+					highlighted in the management memo of 18 June. This European
+					packaging regulation entered into force on 11 February 2025
+					and will become applicable from 12 August 2026.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/read-more.png"
+					href="https://dfg.nl/en/csr-newsletter/ppwr-is-coming-make-sure-your-packaging-is-in-order/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section> </mj-section>
+
+		<!-- Footer -->
+		<mj-section mj-class="full" background-color="rgb(91, 175, 48)">
+			<mj-column width="600px" padding-bottom="0px">
+				<mj-text
+					mj-class="white"
+					padding-left="20px"
+					padding-right="20px"
+					padding-bottom="0"
+				>
+					Read more about our sustainability strategy IMPACT2030 in
+					<!-- TODO: update the flipbook link to the one for this newsletter -->
+					<a
+						style="color: #ffffff"
+						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=july_26&utm_content=flipbook"
+						>our flipbook</a
+					>.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			mj-class="full"
+			background-color="rgb(91, 175, 48)"
+			padding-top="0"
+		>
+			<mj-column width="380px">
+				<mj-text mj-class="white" padding="0">
+					If you have any questions or feedback about this newsletter,
+					or would like to subscribe, please contact us at
+					<a
+						style="color: #ffffff"
+						href="mailto:sustainability@dfg.nl "
+						>sustainability@dfg.nl </a
+					><br />
+					<br />
+					Would you like to unsubscribe from this newsletter?<br />
+					You can do so
+					<a style="color: #ffffff" href="*|UNSUB|*">here</a>
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/footer-white.png"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
