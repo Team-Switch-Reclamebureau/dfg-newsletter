@@ -123,50 +123,6 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" css-class="" padding="10px 20px">
-				<mj-text mj-class="title green">In short: </mj-text>
-				<mj-text padding="0">
-					-
-					<a href="#2"
-						>Human Rights Due Diligence: Meeting Evolving Customer
-						Expectations</a
-					>
-					<br />
-					-
-					<a href="#3"
-						>Even more challenging puzzles for our transport
-						colleagues</a
-					>
-					<br />
-					-
-					<a href="#4"
-						>From Strategy to Action: CSR workshops bringing
-						IMPACT2030 to life</a
-					>
-					<br />
-					- <a href="#5">Be careful with sustainability claims</a>
-					<br />
-					-
-					<a href="#6"
-						>Barendsen consciously chooses the green Red Naomi</a
-					>
-					<br />
-					-
-					<a href="#7"
-						>PPWR is coming: make sure your packaging is in order</a
-					>
-				</mj-text>
-			</mj-column>
-		</mj-section>
-
-		<mj-section padding="0">
-			<mj-column padding="20px" width="100%">
-				<mj-divider />
-			</mj-column>
-		</mj-section>
-
-		<mj-section padding="0 20px">
-			<mj-column width="100%" css-class="" padding="10px 20px">
-				<mj-raw><div id="2"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/2.png"
 					href="https://dfg.nl/en/csr-newsletter/human-rights-due-diligence-meeting-evolving-customer-expectations/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
@@ -208,7 +164,6 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
-				<mj-raw><div id="3"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/3-en.png"
 					href="https://dfg.nl/en/csr-newsletter/even-more-challenging-puzzles-for-our-transport-colleagues/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
@@ -246,7 +201,6 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
-				<mj-raw><div id="4"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/4.png"
 					href="https://dfg.nl/en/csr-newsletter/from-strategy-to-action-csr-workshops-bringing-impact2030-to-life/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
@@ -284,7 +238,6 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
-				<mj-raw><div id="5"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/5.png"
 					href="https://dfg.nl/en/csr-newsletter/be-careful-with-sustainability-claims/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
@@ -321,7 +274,6 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
-				<mj-raw><div id="6"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/6-en.png"
 					href="https://dfg.nl/en/csr-newsletter/barendsen-consciously-chooses-the-green-red-naomi/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
@@ -358,7 +310,6 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
-				<mj-raw><div id="7"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/7.png"
 					href="https://dfg.nl/en/csr-newsletter/ppwr-is-coming-make-sure-your-packaging-is-in-order/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
