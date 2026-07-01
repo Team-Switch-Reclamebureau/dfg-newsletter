@@ -98,14 +98,14 @@
 			</mj-column>
 		</mj-section>
 		<mj-section padding-top="0" padding-bottom="0">
-			<mj-column width="420px" padding-bottom="0" padding-top="0">
+			<mj-column width="380px" padding-bottom="0" padding-top="0">
 				<mj-text>
 					<strong>Linda van Waveren </strong><br />
 					Group Sustainability Manager<br />
 					Dutch Flower Group
 				</mj-text>
 			</mj-column>
-			<mj-column width="140px" padding-bottom="0" padding-top="0">
+			<mj-column width="180px" padding-bottom="0" padding-top="0">
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/linda.png"
 					alt=""
@@ -121,6 +121,51 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" css-class="" padding="10px 20px">
+				<mj-text mj-class="title green">In het kort: </mj-text>
+				<mj-text padding="0">
+					-
+					<a href="#2"
+						>Human Rights: inspelen op veranderende
+						klantverwachtingen</a
+					>
+					<br />
+					-
+					<a href="#3"
+						>Nog meer uitdagende puzzels voor onze
+						transportcollega’s</a
+					>
+					<br />
+					-
+					<a href="#4"
+						>Van strategie naar actie: CSR-workshops brengen
+						IMPACT2030 tot leven</a
+					>
+					<br />
+					- <a href="#5">Let op voor duurzaamheidsclaims</a>
+					<br />
+					-
+					<a href="#6"
+						>Barendsen kiest bewust voor de groene Red Naomi</a
+					>
+					<br />
+					-
+					<a href="#7"
+						>PPWR komt eraan: zorg dat je verpakkingen op orde
+						zijn</a
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" css-class="" padding="10px 20px">
+				<mj-raw><div id="2"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/2.png"
 					href="https://dfg.nl/nl/csr-newsletter/human-rights-inspelen-op-veranderende-klantverwachtingen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
@@ -157,6 +202,7 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
+				<mj-raw><div id="3"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/3-nl.png"
 					href="https://dfg.nl/nl/csr-newsletter/nog-meer-uitdagende-puzzels-voor-onze-transportcollegas/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
@@ -167,6 +213,8 @@
 					transportcollega’s</mj-text
 				>
 				<mj-text padding="0">
+					<em>Door Marjon van Diepen</em><br />
+					<br />
 					Schonere transportopties zoals biobrandstof (HVO) en
 					elektrisch transport worden de komende jaren steeds
 					aantrekkelijker. Ze zorgen voor aanzienlijk lagere
@@ -193,6 +241,7 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
+				<mj-raw><div id="4"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/4.png"
 					href="https://dfg.nl/nl/csr-newsletter/van-strategie-naar-actie-csr-workshops-brengen-impact2030-tot-leven/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
@@ -230,6 +279,7 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
+				<mj-raw><div id="5"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/5.png"
 					href="https://dfg.nl/nl/csr-newsletter/let-op-voor-duurzaamheidsclaims/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
@@ -266,6 +316,7 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
+				<mj-raw><div id="6"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/6-nl.png"
 					href="https://dfg.nl/nl/csr-newsletter/barendsen-kiest-bewust-voor-de-groene-red-naomi/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
@@ -302,6 +353,7 @@
 
 		<mj-section padding="0 20px">
 			<mj-column width="100%" padding="10px 20px">
+				<mj-raw><div id="7"></div></mj-raw>
 				<mj-image
 					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/07/7.png"
 					href="https://dfg.nl/nl/csr-newsletter/ppwr-komt-eraan-zorg-dat-je-verpakkingen-op-orde-zijn/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=juyly_26"
