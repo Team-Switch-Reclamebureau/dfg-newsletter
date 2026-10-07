@@ -1,0 +1,26 @@
+<mj-section padding="0">
+	<mj-column padding="20px" width="100%">
+		<mj-divider />
+	</mj-column>
+</mj-section>
+
+<mj-section padding="0 20px">
+	<mj-column width="100%" css-class="" padding="10px 20px">
+		<mj-image src="{{ image:item_image }}" href="{{ url:link }}" alt="" />
+		<mj-text mj-class="title green">{{ text:title }} </mj-text>
+		<mj-text padding="0">
+			<em>By {{ text:author }}</em
+			><br />
+			<br />
+			{{ textarea:content }}
+		</mj-text>
+		<mj-image
+			width="291px"
+			align="left"
+			src="{{ image:read_more_button }}"
+			href="{{ url:link }}"
+			alt=""
+			padding="20px 0 0 0"
+		/>
+	</mj-column>
+</mj-section>

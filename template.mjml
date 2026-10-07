@@ -1,0 +1,131 @@
+<mjml>
+	<mj-head>
+		<mj-font
+			name="Urbana"
+			href="https://use.typekit.net/tnf8jkx.css"
+		></mj-font>
+		<mj-breakpoint width="600px" />
+		<mj-attributes>
+			<mj-section padding="20px" background-color="white" />
+			<mj-column padding="40px 20px 20px" />
+			<mj-text padding="0 0 20px" />
+			<mj-image padding="0 0 20px" />
+
+			<mj-all font-family="Arial" />
+			<mj-all font-size="14px" />
+			<mj-all line-height="1.4" />
+			<mj-all color="#555555" />
+
+			<mj-divider border-width="2px" border-color="rgb(91, 175, 48)" />
+
+			<mj-class
+				name="title"
+				font-weight="500"
+				font-size="24px"
+				font-family="Urbana, Arial, sans-serif"
+				line-height="1"
+			/>
+
+			<mj-class name="white" color="white" />
+			<mj-class name="green" color="rgb(91, 175, 48)" />
+			<mj-class name="dark-green" color="rgb(0, 157, 102)" />
+			<mj-class name="orange" color="rgb(230, 70, 16)" />
+			<mj-class name="blue" color="rgb(0, 158, 226)" />
+			<mj-class name="purple" color="rgb(79, 56, 140)" />
+
+			<mj-class name="logo" width="120px" align="left" />
+
+			<mj-class name="full" padding="0" />
+		</mj-attributes>
+		<mj-style inline="inline">
+			a { color: inherit; text-decoration: undeline; } .purple > table {
+			background-color: #005DA4 !important;} .red > table {
+			background-color: #AD1E22 !important; %) } .yellow > table {
+			background-color: #00983A !important; } .green > table {
+			background-color: rgb(91, 175, 48) !important; }
+		</mj-style>
+	</mj-head>
+	<mj-body background-color="#EEEEEE">
+		<mj-section padding="0">
+			<mj-column width="600px" padding="0">
+				<mj-image
+					width="600px"
+					src="{{ image:hero_image }}"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column width="560px">
+				<mj-text>
+					{{ textarea:intro }}
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="380px" padding-bottom="0" padding-top="0">
+				<mj-text>
+					<strong>Linda van Waveren </strong><br />
+					Group Sustainability Manager<br />
+					Dutch Flower Group
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" padding-bottom="0" padding-top="0">
+				<mj-image
+					src="{{ image:person }}"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+
+		{{ items }}
+
+		<mj-section> </mj-section>
+
+		<!-- Footer -->
+		<mj-section mj-class="full" background-color="rgb(91, 175, 48)">
+			<mj-column width="600px" padding-bottom="0px">
+				<mj-text
+					mj-class="white"
+					padding-left="20px"
+					padding-right="20px"
+					padding-bottom="0"
+				>
+					Read more about our sustainability strategy IMPACT2030 in
+					<a style="color: #ffffff" href="{{ url:flipbook }}"
+						>our flipbook</a
+					>.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			mj-class="full"
+			background-color="rgb(91, 175, 48)"
+			padding-top="0"
+		>
+			<mj-column width="380px">
+				<mj-text mj-class="white" padding="0">
+					If you have any questions or feedback about this newsletter,
+					or would like to subscribe, please contact us at
+					<a
+						style="color: #ffffff"
+						href="mailto:sustainability@dfg.nl "
+						>sustainability@dfg.nl </a
+					><br />
+					<br />
+					Would you like to unsubscribe from this newsletter?<br />
+					You can do so
+					<a style="color: #ffffff" href="*|UNSUB|*">here</a>
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-image
+					src="{{ image:footer_logo }}"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
