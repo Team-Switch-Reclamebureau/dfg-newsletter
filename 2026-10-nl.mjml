@@ -1,0 +1,299 @@
+<mjml>
+	<mj-head>
+		<mj-font
+			name="Urbana"
+			href="https://use.typekit.net/tnf8jkx.css"
+		></mj-font>
+		<mj-breakpoint width="600px" />
+		<mj-attributes>
+			<mj-section padding="20px" background-color="white" />
+			<mj-column padding="40px 20px 20px" />
+			<mj-text padding="0 0 20px" />
+			<mj-image padding="0 0 20px" />
+
+			<mj-all font-family="Arial" />
+			<mj-all font-size="14px" />
+			<mj-all line-height="1.4" />
+			<mj-all color="#555555" />
+
+			<mj-divider border-width="2px" border-color="rgb(91, 175, 48)" />
+
+			<mj-class
+				name="title"
+				font-weight="500"
+				font-size="24px"
+				font-family="Urbana, Arial, sans-serif"
+				line-height="1"
+			/>
+
+			<mj-class name="white" color="white" />
+			<mj-class name="green" color="rgb(91, 175, 48)" />
+			<mj-class name="dark-green" color="rgb(0, 157, 102)" />
+			<mj-class name="orange" color="rgb(230, 70, 16)" />
+			<mj-class name="blue" color="rgb(0, 158, 226)" />
+			<mj-class name="purple" color="rgb(79, 56, 140)" />
+
+			<mj-class name="logo" width="120px" align="left" />
+
+			<mj-class name="full" padding="0" />
+		</mj-attributes>
+		<mj-style inline="inline">
+			a { color: inherit; text-decoration: undeline; } .purple > table {
+			background-color: #005DA4 !important;} .red > table {
+			background-color: #AD1E22 !important; %) } .yellow > table {
+			background-color: #00983A !important; } .green > table {
+			background-color: rgb(91, 175, 48) !important; }
+		</mj-style>
+	</mj-head>
+	<mj-body background-color="#EEEEEE">
+		<mj-section padding="0">
+			<mj-column width="600px" padding="0">
+				<mj-image
+					width="600px"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/10/hero-nl.png"
+					alt=""
+					padding="0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column width="560px">
+				<mj-text>
+					Beste collega's,<br /><br />Noem het duurzaamheid,
+					toekomstbestendigheid of gewoon goed ondernemerschap.
+					Uiteindelijk draait het om dezelfde vraag: hoe houd je je
+					bedrijf sterk, gezond en relevant voor de lange termijn?<br /><br />In
+					gesprekken binnen DFG-bedrijven merk ik dat elk bedrijf zijn
+					eigen uitdagingen heeft. Toch komen dezelfde thema's steeds
+					terug: wetgeving, stijgende kosten, klantverwachtingen en de
+					beschikbaarheid van mensen. Daarom kunnen we veel van elkaar
+					leren.<br /><br />Tijdens de Sustainability Ambassador Day
+					zagen we een mooie parallel met de natuur: sterke
+					ecosystemen bestaan uit sterke verbindingen. Ook binnen
+					Dutch Flower Group zit onze kracht in samenwerken, kennis
+					delen en voortbouwen op elkaars ervaringen. Dat doen we
+					onder andere via onze taskforces. Vanaf oktober helpt de DFG
+					Sustainability Council om hierin focus te houden en
+					gezamenlijk voortgang te boeken.<br /><br />In deze
+					nieuwsbrief lees je een aantal praktische voorbeelden: van
+					lessen uit de natuur en de impact van Fairtrade tot stappen
+					richting een traceerbare wildplukketen. Verschillende
+					onderwerpen met één gemene deler: samen kunnen we sneller
+					leren en meer impact maken.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="380px" padding-bottom="0" padding-top="0">
+				<mj-text>
+					<strong>Linda van Waveren </strong><br />
+					Group Sustainability Manager<br />
+					Dutch Flower Group
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" padding-bottom="0" padding-top="0">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/linda.png"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" css-class="" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/10/1.png"
+					href="https://dfg.nl/nl/csr-newsletter/wild-harvest-project-eerste-audits-starten-dit-najaar/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=october_26"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>Wild Harvest Project: eerste audits starten dit najaar
+				</mj-text>
+				<mj-text padding="0">
+					<em>Door Olga Keijser</em><br />
+					<br />
+					Verantwoord ondernemen begint door goed te weten waar de
+					producten vandaan komen die je op de markt zet en onder
+					welke omstandigheden ze zijn gemaakt. Maar hoe doe je dat
+					bij producten die in het wild worden geoogst? Lees waar onze
+					pilots nu staan.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/lees-verder.png"
+					href="https://dfg.nl/nl/csr-newsletter/wild-harvest-project-eerste-audits-starten-dit-najaar/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=october_26"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/10/2.png"
+					href="https://dfg.nl/nl/csr-newsletter/fairtrade-premium-helpt-5-075-kinderen-aan-onderwijs/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=october_26"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>Fairtrade Premium helpt 5.075 kinderen aan onderwijs
+				</mj-text>
+				<mj-text padding="0">
+					<em>Door Iris de Waal</em><br />
+					<br />
+					Wat hebben Fairtrade, onderwijs en klimaat met elkaar te
+					maken? Meer dan je misschien denkt. Bij Nini zien we wat
+					jarenlang investeren in onderwijs oplevert: sterkere
+					gemeenschappen en meer perspectief voor de volgende
+					generatie.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/lees-verder.png"
+					href="https://dfg.nl/nl/csr-newsletter/fairtrade-premium-helpt-5-075-kinderen-aan-onderwijs/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=october_26"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/10/3.png"
+					href="https://dfg.nl/nl/csr-newsletter/van-de-bussumerheide-naar-de-sierteelt-lessen-uit-de-natuur/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=october_26"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>Van de Bussumerheide naar de sierteelt: lessen uit de
+					natuur
+				</mj-text>
+				<mj-text padding="0">
+					<em>Door Marjon van Diepen</em><br />
+					<br />
+					Duurzaamheidsvraagstukken staan zelden op zichzelf. Klimaat,
+					logistiek, kosten en klantverwachtingen zijn steeds sterker
+					met elkaar verbonden. De natuur weet al miljoenen jaren hoe
+					je met zo’n complex systeem omgaat. Wat kunnen wij daarvan
+					leren?
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/lees-verder.png"
+					href="https://dfg.nl/nl/csr-newsletter/van-de-bussumerheide-naar-de-sierteelt-lessen-uit-de-natuur/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=october_26"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0">
+			<mj-column padding="20px" width="100%">
+				<mj-divider />
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0 20px">
+			<mj-column width="100%" padding="10px 20px">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/26/10/4.png"
+					href="https://dfg.nl/nl/csr-newsletter/vier-taskforces-aan-de-slag-met-impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=october_26"
+					alt=""
+				/>
+				<mj-text mj-class="title green"
+					>Vier taskforces aan de slag met IMPACT2030
+				</mj-text>
+				<mj-text padding="0">
+					<em>Door Linda van Waveren</em><br />
+					<br />
+					Met IMPACT2030 hebben we duidelijke duurzaamheidsambities.
+					Maar ambities alleen zijn niet genoeg. Ontwikkelingen in de
+					markt, keten en wetgeving kunnen invloed hebben op onze
+					bedrijfsvoering en vragen om duidelijke keuzes. Daarom zijn
+					vier taskforces gestart die bepalen wat er binnen DFG nodig
+					is, prioriteiten stellen en deze vertalen naar concrete
+					acties.
+				</mj-text>
+				<mj-image
+					width="291px"
+					align="left"
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/button/lees-verder.png"
+					href="https://dfg.nl/nl/csr-newsletter/vier-taskforces-aan-de-slag-met-impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=october_26"
+					alt=""
+					padding="20px 0 0 0"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<mj-section> </mj-section>
+
+		<!-- Footer -->
+		<mj-section mj-class="full" background-color="rgb(91, 175, 48)">
+			<mj-column width="600px" padding-bottom="0px">
+				<mj-text
+					mj-class="white"
+					padding-left="20px"
+					padding-right="20px"
+					padding-bottom="0"
+				>
+					Lees meer over onze duurzaamheidsstrategie IMPACT2030 in
+					<!-- TODO: update the flipbook link to the one for this newsletter -->
+					<a
+						style="color: #ffffff"
+						href="https://dfg.nl/flipbook/impact2030/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=october_26&utm_content=flipbook"
+						>ons flipbook</a
+					>.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			mj-class="full"
+			background-color="rgb(91, 175, 48)"
+			padding-top="0"
+		>
+			<mj-column width="380px">
+				<mj-text mj-class="white" padding="0">
+					Heb je vragen of feedback over deze nieuwsbrief, of wil je
+					je aanmelden? Neem dan contact op via
+					<a
+						style="color: #ffffff"
+						href="mailto:sustainability@dfg.nl "
+						>sustainability@dfg.nl </a
+					><br />
+					<br />
+					Wil je je afmelden voor deze nieuwsbrief?<br />
+					Dat kan
+					<a style="color: #ffffff" href="*|UNSUB|*">hier</a>
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-image
+					src="https://team-switch-reclamebureau.github.io/dfg-newsletter/public/footer-white.png"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
