@@ -9,7 +9,7 @@
 		<mj-image src="{{ image:item_image }}" href="{{ url:link }}" alt="" />
 		<mj-text mj-class="title green">{{ text:title }} </mj-text>
 		<mj-text padding="0">
-			<em>By {{ text:author }}</em
+			<em>{{ text:author }}</em
 			><br />
 			<br />
 			{{ textarea:content }}

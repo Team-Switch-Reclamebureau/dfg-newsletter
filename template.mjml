@@ -67,16 +67,11 @@
 		<mj-section padding-top="0" padding-bottom="0">
 			<mj-column width="380px" padding-bottom="0" padding-top="0">
 				<mj-text>
-					<strong>Linda van Waveren </strong><br />
-					Group Sustainability Manager<br />
-					Dutch Flower Group
+					{{ textarea:person_bio }}
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" padding-bottom="0" padding-top="0">
-				<mj-image
-					src="{{ image:person }}"
-					alt=""
-				/>
+				<mj-image src="{{ image:person }}" alt="" />
 			</mj-column>
 		</mj-section>
 
@@ -93,10 +88,7 @@
 					padding-right="20px"
 					padding-bottom="0"
 				>
-					Read more about our sustainability strategy IMPACT2030 in
-					<a style="color: #ffffff" href="{{ url:flipbook }}"
-						>our flipbook</a
-					>.
+					{{ textarea:flipbook }}
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -107,24 +99,11 @@
 		>
 			<mj-column width="380px">
 				<mj-text mj-class="white" padding="0">
-					If you have any questions or feedback about this newsletter,
-					or would like to subscribe, please contact us at
-					<a
-						style="color: #ffffff"
-						href="mailto:sustainability@dfg.nl "
-						>sustainability@dfg.nl </a
-					><br />
-					<br />
-					Would you like to unsubscribe from this newsletter?<br />
-					You can do so
-					<a style="color: #ffffff" href="*|UNSUB|*">here</a>
+					{{ textarea:footer }}
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
-				<mj-image
-					src="{{ image:footer_logo }}"
-					alt=""
-				/>
+				<mj-image src="{{ image:footer_logo }}" alt="" />
 			</mj-column>
 		</mj-section>
 	</mj-body>
